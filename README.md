@@ -1,7 +1,7 @@
 ### Hi there, I'm Rob Morgan 👋
 
 I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I work on a bunch of
-open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You might want to [hire me](https://robmorgan.id.au/work-with-me/)
+open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You can [hire me](https://robmorgan.id.au/work-with-me/)
 for your next project.
 
 In the past, I created and released the [Phinx](https://github.com/cakephp/phinx) (4.4k ⭐️) open-source database migrations tool
