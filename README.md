@@ -8,18 +8,42 @@ In the past, I created and released the [Phinx](https://github.com/cakephp/phinx
 and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
 I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/terratest) (An open-source IaC testing tool) and created a product for [hosting Magento on AWS](https://github.com/magecloudkit/magecloudkit).
 
+#### 👨‍💻 I'm currently working on
 
-<!--
-**robmorgan/robmorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) - A GitHub Action for running Patcher, including setting up promotion workflows. (1 month ago)
+- [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (2 months ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
+- [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (2 months ago)
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) - A software lighting desk with remote control features (4 months ago)
 
-Here are some ideas to get you started:
+#### 🌱 My latest projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - 
+- [robmorgan/terraform-cloudrun-example](https://github.com/robmorgan/terraform-cloudrun-example) - Serverless CI/CD pipeline on GCP using Terraform
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
+- [robmorgan/go-lc3-vm](https://github.com/robmorgan/go-lc3-vm) - LC-3 Virtual Machine in Go
+- [robmorgan/jenkins2-docker](https://github.com/robmorgan/jenkins2-docker) - Jenkins 2 Docker Image
+
+#### 🔨 My recent Pull Requests
+
+- [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (2 weeks ago)
+- [Promotion Workflows V2](https://github.com/gruntwork-io/patcher-action/pull/40) on [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) (2 months ago)
+- [[WIP] Support multiple working dirs](https://github.com/gruntwork-io/patcher-action/pull/39) on [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) (2 months ago)
+
+#### 🚀 Latest releases I've contributed to
+
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.0](https://github.com/gruntwork-io/docs/releases/tag/v1.2.0), 4 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.66.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.66.9), 6 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.2](https://github.com/cakephp/phinx/releases/tag/0.16.2), 1 month ago) - PHP Database Migrations for Everyone
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 4 months ago) - A software lighting desk with remote control features
+
+#### ⭐ Recent Stars
+
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (2 weeks ago)
+- [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 weeks ago)
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (2 weeks ago)
+- [polyfloyd/ledcat](https://github.com/polyfloyd/ledcat) - Control lots of LED&#39;s over lots of protocols (2 weeks ago)
+- [maxjoehnk/Mizer](https://github.com/maxjoehnk/Mizer) - A visualization software for live events like concerts and club gigs with a node based workflow. (2 weeks ago)
+
+![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
