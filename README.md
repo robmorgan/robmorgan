@@ -16,19 +16,18 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (2 months ago)
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) - A software lighting desk with remote control features (4 months ago)
 
-#### 🌱 My latest projects
-
-- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - 
-- [robmorgan/terraform-cloudrun-example](https://github.com/robmorgan/terraform-cloudrun-example) - Serverless CI/CD pipeline on GCP using Terraform
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
-- [robmorgan/go-lc3-vm](https://github.com/robmorgan/go-lc3-vm) - LC-3 Virtual Machine in Go
-- [robmorgan/jenkins2-docker](https://github.com/robmorgan/jenkins2-docker) - Jenkins 2 Docker Image
-
 #### 🔨 My recent Pull Requests
 
 - [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (2 weeks ago)
 - [Promotion Workflows V2](https://github.com/gruntwork-io/patcher-action/pull/40) on [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) (2 months ago)
-- [[WIP] Support multiple working dirs](https://github.com/gruntwork-io/patcher-action/pull/39) on [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) (2 months ago)
+
+#### 🌱 My latest projects
+
+- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status
+- [robmorgan/terraform-cloudrun-example](https://github.com/robmorgan/terraform-cloudrun-example) - Serverless CI/CD pipeline on GCP using Terraform
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
+- [robmorgan/go-lc3-vm](https://github.com/robmorgan/go-lc3-vm) - LC-3 Virtual Machine in Go
+- [robmorgan/jenkins2-docker](https://github.com/robmorgan/jenkins2-docker) - Jenkins 2 Docker Image
 
 #### 🚀 Latest releases I've contributed to
 
