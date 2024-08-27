@@ -18,8 +18,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] Start using Bubble Tea](https://github.com/sozercan/kubectl-ai/pull/185) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (1 day ago)
 - [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (2 weeks ago)
-- [Promotion Workflows V2](https://github.com/gruntwork-io/patcher-action/pull/40) on [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -31,8 +31,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.0](https://github.com/gruntwork-io/docs/releases/tag/v1.2.0), 4 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.66.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.66.9), 6 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.0](https://github.com/gruntwork-io/docs/releases/tag/v1.2.0), 5 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.66.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.66.9), 1 week ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.2](https://github.com/cakephp/phinx/releases/tag/0.16.2), 1 month ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 4 months ago) - A software lighting desk with remote control features
