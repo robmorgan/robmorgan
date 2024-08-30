@@ -18,7 +18,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [[WIP] Start using Bubble Tea](https://github.com/sozercan/kubectl-ai/pull/185) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (3 days ago)
+- [Use Bubble Tea to Render the TUI](https://github.com/sozercan/kubectl-ai/pull/185) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (4 days ago)
 - [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -31,8 +31,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.2](https://github.com/gruntwork-io/docs/releases/tag/v1.2.2), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.0](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.0), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.2](https://github.com/gruntwork-io/docs/releases/tag/v1.2.2), 2 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.0](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.0), 3 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.2](https://github.com/cakephp/phinx/releases/tag/0.16.2), 1 month ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 4 months ago) - A software lighting desk with remote control features
@@ -41,8 +41,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (2 weeks ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (2 weeks ago)
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (2 weeks ago)
-- [polyfloyd/ledcat](https://github.com/polyfloyd/ledcat) - Control lots of LED&#39;s over lots of protocols (2 weeks ago)
-- [maxjoehnk/Mizer](https://github.com/maxjoehnk/Mizer) - A visualization software for live events like concerts and club gigs with a node based workflow. (2 weeks ago)
+- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (3 weeks ago)
+- [polyfloyd/ledcat](https://github.com/polyfloyd/ledcat) - Control lots of LED&#39;s over lots of protocols (3 weeks ago)
+- [maxjoehnk/Mizer](https://github.com/maxjoehnk/Mizer) - A visualization software for live events like concerts and club gigs with a node based workflow. (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
