@@ -14,12 +14,12 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (2 months ago)
 - [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (2 months ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) - A software lighting desk with remote control features (4 months ago)
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) - A software lighting desk with remote control features (5 months ago)
 
 #### 🔨 My recent Pull Requests
 
 - [Use Bubble Tea to Render the TUI](https://github.com/sozercan/kubectl-ai/pull/185) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (2 weeks ago)
-- [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (4 weeks ago)
+- [Replace gpt-3.5-turbo default with gpt-4o-mini](https://github.com/sozercan/kubectl-ai/pull/177) on [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -31,15 +31,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.4](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.4), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.3](https://github.com/cakephp/phinx/releases/tag/0.16.3), 3 days ago) - PHP Database Migrations for Everyone
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.2](https://github.com/gruntwork-io/docs/releases/tag/v1.2.2), 1 week ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.4](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.4), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.3](https://github.com/cakephp/phinx/releases/tag/0.16.3), 4 days ago) - PHP Database Migrations for Everyone
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.2](https://github.com/gruntwork-io/docs/releases/tag/v1.2.2), 2 weeks ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 2 months ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 4 months ago) - A software lighting desk with remote control features
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 5 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (4 weeks ago)
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 month ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 month ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 month ago)
 - [polyfloyd/ledcat](https://github.com/polyfloyd/ledcat) - Control lots of LED&#39;s over lots of protocols (1 month ago)
