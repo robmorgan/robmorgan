@@ -31,7 +31,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.8](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.8), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.9), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.3](https://github.com/gruntwork-io/docs/releases/tag/v1.2.3), 1 week ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.3](https://github.com/cakephp/phinx/releases/tag/0.16.3), 1 week ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 2 months ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
@@ -39,10 +39,10 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
-- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (6 days ago)
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS (1 day ago)
+- [IBM/plex](https://github.com/IBM/plex) - The package of IBM’s typeface, IBM Plex. (1 week ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 month ago)
 - [sozercan/aikit](https://github.com/sozercan/aikit) - 🏗️ Fine-tune, build, and deploy open-source LLMs easily! (1 month ago)
 - [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi! (1 month ago)
-- [polyfloyd/ledcat](https://github.com/polyfloyd/ledcat) - Control lots of LED&#39;s over lots of protocols (1 month ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
