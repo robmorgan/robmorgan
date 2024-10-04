@@ -10,11 +10,11 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (4 days ago)
+- [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) - SWS Stocks App (1 day ago)
+- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (5 days ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) - A GitHub Action for running Patcher, including setting up promotion workflows. (3 months ago)
-- [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -26,24 +26,24 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🌱 My latest projects
 
+- [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) - SWS Stocks App
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status
 - [robmorgan/terraform-cloudrun-example](https://github.com/robmorgan/terraform-cloudrun-example) - Serverless CI/CD pipeline on GCP using Terraform
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
-- [robmorgan/go-lc3-vm](https://github.com/robmorgan/go-lc3-vm) - LC-3 Virtual Machine in Go
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.15](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.15), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.4](https://github.com/gruntwork-io/docs/releases/tag/v1.2.4), 5 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.4](https://github.com/cakephp/phinx/releases/tag/0.16.4), 1 week ago) - PHP Database Migrations for Everyone
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 day ago) - PHP Database Migrations for Everyone
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.16](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.16), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.4](https://github.com/gruntwork-io/docs/releases/tag/v1.2.4), 6 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.0), 2 months ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 5 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [geerlingguy/rpi-clone](https://github.com/geerlingguy/rpi-clone) - A shell script to clone a booted disk on a Raspberry Pi. (1 day ago)
-- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (2 days ago)
+- [geerlingguy/rpi-clone](https://github.com/geerlingguy/rpi-clone) - A shell script to clone a booted disk on a Raspberry Pi. (2 days ago)
+- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (3 days ago)
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 week ago)
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (2 weeks ago)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS (2 weeks ago)
