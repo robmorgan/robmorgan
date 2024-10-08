@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) - SWS Stocks App (3 days ago)
+- [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) - SWS Stocks App (1 day ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (1 week ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
@@ -18,7 +18,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [Add an API backend using Node](https://github.com/robmorgan/sws-stocks/pull/1) on [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) (3 days ago)
+- [Add an API backend using Node](https://github.com/robmorgan/sws-stocks/pull/1) on [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) (4 days ago)
 - [Update the readme](https://github.com/robmorgan/phinx-screencast/pull/13) on [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) (1 week ago)
 - [Improve Docs](https://github.com/robmorgan/phinx-screencast/pull/12) on [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) (2 weeks ago)
 - [Bump actions/checkout to v4](https://github.com/robmorgan/phinx-screencast/pull/11) on [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) (2 weeks ago)
@@ -34,18 +34,18 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.1](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.1), 3 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.5](https://github.com/gruntwork-io/docs/releases/tag/v1.2.5), 3 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 4 days ago) - PHP Database Migrations for Everyone
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.67.16](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.67.16), 4 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.0-beta2024100702](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.0-beta2024100702), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.0.1](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.0.1), 4 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.5](https://github.com/gruntwork-io/docs/releases/tag/v1.2.5), 4 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 5 days ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 5 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [geerlingguy/rpi-clone](https://github.com/geerlingguy/rpi-clone) - A shell script to clone a booted disk on a Raspberry Pi. (5 days ago)
-- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (6 days ago)
-- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (1 week ago)
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (1 day ago)
+- [geerlingguy/rpi-clone](https://github.com/geerlingguy/rpi-clone) - A shell script to clone a booted disk on a Raspberry Pi. (6 days ago)
+- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (1 week ago)
+- [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust. (2 weeks ago)
 - [slimphp/Slim](https://github.com/slimphp/Slim) - Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. (2 weeks ago)
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS (2 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
