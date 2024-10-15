@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (5 days ago)
+- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (1 day ago)
 - [robmorgan/sws-stocks](https://github.com/robmorgan/sws-stocks) - SWS Stocks App (1 week ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
@@ -34,18 +34,18 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.7](https://github.com/gruntwork-io/docs/releases/tag/v1.2.7), 4 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.1](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.1), 4 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 5 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v1.2.7](https://github.com/gruntwork-io/docs/releases/tag/v1.2.7), 5 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.1](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.1), 5 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 6 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 week ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 6 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [paultyng/terraform-provider-unifi](https://github.com/paultyng/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (4 days ago)
-- [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you&#39;ll find notes, setups, and configurations for infrastructure, applications, networking, and more. (6 days ago)
+- [albertogeniola/meross-homeassistant](https://github.com/albertogeniola/meross-homeassistant) - Custom component that leverages the Meross IoT library to integrate with Homeassistant (1 day ago)
+- [paultyng/terraform-provider-unifi](https://github.com/paultyng/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (5 days ago)
+- [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you&#39;ll find notes, setups, and configurations for infrastructure, applications, networking, and more. (1 week ago)
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (1 week ago)
 - [geerlingguy/rpi-clone](https://github.com/geerlingguy/rpi-clone) - A shell script to clone a booted disk on a Raspberry Pi. (1 week ago)
-- [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client (1 week ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
