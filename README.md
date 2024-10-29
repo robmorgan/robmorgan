@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - Lighting Console (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - Headless Lighting Console (today)
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator (1 day ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (2 weeks ago)
@@ -28,7 +28,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup
-- [robmorgan/halo](https://github.com/robmorgan/halo) - Lighting Console
+- [robmorgan/halo](https://github.com/robmorgan/halo) - Headless Lighting Console
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status
 - [robmorgan/terraform-cloudrun-example](https://github.com/robmorgan/terraform-cloudrun-example) - Serverless CI/CD pipeline on GCP using Terraform
 
