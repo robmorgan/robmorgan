@@ -34,18 +34,18 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.1.8](https://github.com/gruntwork-io/docs/releases/tag/v2.1.8), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.8](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.8), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.9), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.0](https://github.com/gruntwork-io/docs/releases/tag/v2.2.0), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 month ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 6 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (1 day ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 week ago)
 - [albertogeniola/meross-homeassistant](https://github.com/albertogeniola/meross-homeassistant) - Custom component that leverages the Meross IoT library to integrate with Homeassistant (3 weeks ago)
-- [paultyng/terraform-provider-unifi](https://github.com/paultyng/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (4 weeks ago)
+- [paultyng/terraform-provider-unifi](https://github.com/paultyng/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (1 month ago)
 - [ChristianLempa/homelab](https://github.com/ChristianLempa/homelab) - This is my entire homelab documentation files. Here you&#39;ll find notes, setups, and configurations for infrastructure, applications, networking, and more. (1 month ago)
-- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀 (1 month ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
