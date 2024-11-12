@@ -11,7 +11,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator (1 week ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (1 week ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (4 weeks ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 month ago)
@@ -34,15 +34,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.2](https://github.com/gruntwork-io/docs/releases/tag/v2.2.2), 2 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.9](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.9), 3 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.11-alpha2024111101](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.11-alpha2024111101), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.2](https://github.com/gruntwork-io/docs/releases/tag/v2.2.2), 3 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 month ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 7 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (3 days ago)
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (4 days ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (2 weeks ago)
 - [albertogeniola/meross-homeassistant](https://github.com/albertogeniola/meross-homeassistant) - Custom component that leverages the Meross IoT library to integrate with Homeassistant (4 weeks ago)
 - [paultyng/terraform-provider-unifi](https://github.com/paultyng/terraform-provider-unifi) - Terraform provider for Unifi :satellite: (1 month ago)
