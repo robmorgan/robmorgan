@@ -34,15 +34,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.15-beta2024111501](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.15-beta2024111501), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.1.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.1.0), 1 day ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.6](https://github.com/gruntwork-io/docs/releases/tag/v2.2.6), 2 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.15-beta2024111501](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.15-beta2024111501), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.1.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.1.0), 2 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.6](https://github.com/gruntwork-io/docs/releases/tag/v2.2.6), 3 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 month ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 7 months ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (4 days ago)
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (5 days ago)
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (1 week ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (2 weeks ago)
 - [albertogeniola/meross-homeassistant](https://github.com/albertogeniola/meross-homeassistant) - Custom component that leverages the Meross IoT library to integrate with Homeassistant (1 month ago)
