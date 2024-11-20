@@ -12,7 +12,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator (2 weeks ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (3 weeks ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (4 weeks ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (1 month ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 month ago)
 
@@ -34,9 +34,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 day ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.68.15](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.68.15), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.8](https://github.com/gruntwork-io/docs/releases/tag/v2.2.8), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.69.0](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.69.0), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 2 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.8](https://github.com/gruntwork-io/docs/releases/tag/v2.2.8), 2 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 month ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 7 months ago) - A software lighting desk with remote control features
 
