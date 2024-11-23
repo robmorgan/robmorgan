@@ -34,9 +34,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.16](https://github.com/gruntwork-io/docs/releases/tag/v2.2.16), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.69.0](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.69.0), 3 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 4 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.2.22](https://github.com/gruntwork-io/docs/releases/tag/v2.2.22), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.69.1](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.69.1), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 5 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 1 month ago) - PHP Database Migrations for Everyone
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.6.3](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.6.3), 7 months ago) - A software lighting desk with remote control features
 
