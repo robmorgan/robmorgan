@@ -34,15 +34,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.3.6](https://github.com/gruntwork-io/docs/releases/tag/v2.3.6), 1 day ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.69.13](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.69.13), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/docs](https://github.com/gruntwork-io/docs) ([v2.3.6](https://github.com/gruntwork-io/docs/releases/tag/v2.3.6), 2 days ago) - Gruntwork docs files plus a set of tools to auto-generate a docs website from package markdown files.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.69.13](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.69.13), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 1 week ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 2 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.5](https://github.com/cakephp/phinx/releases/tag/0.16.5), 2 months ago) - PHP Database Migrations for Everyone
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (3 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (4 days ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (1 month ago)
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (1 month ago)
 - [shadcn-ui/taxonomy](https://github.com/shadcn-ui/taxonomy) - An open source application built using the new router, server components and everything new in Next.js 13. (1 month ago)
