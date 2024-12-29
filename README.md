@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.0), 4 days ago) - A software lighting desk with remote control features
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.0), 5 days ago) - A software lighting desk with remote control features
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.6](https://github.com/cakephp/phinx/releases/tag/0.16.6), 1 week ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.71.2-alpha2024122002](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.71.2-alpha2024122002), 1 week ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.3.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.3.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
@@ -42,7 +42,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
-- [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust (3 days ago)
+- [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust (4 days ago)
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (1 month ago)
