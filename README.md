@@ -10,9 +10,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
+- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (1 day ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator (2 months ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (2 months ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (2 months ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (3 months ago)
 
@@ -42,9 +42,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
-- [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust (6 days ago)
+- [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust (1 week ago)
 - [spiceai/spiceai](https://github.com/spiceai/spiceai) - A data query and AI-inference compute engine written in Rust using Apache Arrow and DataFusion for secure, fast, agentic AI applications. (1 week ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (1 month ago)
 - [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple (1 month ago)
 
