@@ -10,15 +10,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Transform many Git repos by running commands in containers. (1 week ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Transform many Git repos by running commands in containers. (1 day ago)
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (3 weeks ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (4 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Support Git Ops](https://github.com/brightfame/metamorph/pull/2) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (6 days ago)
+- [Support Git Ops](https://github.com/brightfame/metamorph/pull/2) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (1 week ago)
 - [Create GitHub Actions (go.yml)](https://github.com/brightfame/metamorph/pull/1) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (1 week ago)
 - [Tiny typo fix](https://github.com/cli/cli/pull/10265) on [cli/cli](https://github.com/cli/cli) (1 week ago)
 - [Color](https://github.com/robmorgan/halo/pull/7) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.72.4](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.72.4), 4 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.72.5](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.72.5), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) ([v0.0.1](https://github.com/brightfame/metamorph/releases/tag/v0.0.1), 1 week ago) - Transform many Git repos by running commands in containers.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.1](https://github.com/robmorgan/halo/releases/tag/v0.0.1), 2 weeks ago) - Realtime headless lighting console for live performances and precise automation
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.3.1](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.3.1), 2 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
