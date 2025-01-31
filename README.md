@@ -11,8 +11,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax. (1 day ago)
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Transform many Git repos by running commands in containers. (3 days ago)
-- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (1 week ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Transform many Git repos by running commands in containers. (4 days ago)
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool (2 weeks ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime headless lighting console for live performances and precise automation (1 month ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 
@@ -20,7 +20,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [Support Git Ops](https://github.com/brightfame/metamorph/pull/2) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (1 week ago)
 - [Create GitHub Actions (go.yml)](https://github.com/brightfame/metamorph/pull/1) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (1 week ago)
-- [Tiny typo fix](https://github.com/cli/cli/pull/10265) on [cli/cli](https://github.com/cli/cli) (1 week ago)
+- [Tiny typo fix](https://github.com/cli/cli/pull/10265) on [cli/cli](https://github.com/cli/cli) (2 weeks ago)
 - [Color](https://github.com/robmorgan/halo/pull/7) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
 - [Add Rals 70th Show](https://github.com/robmorgan/halo/pull/6) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
 
@@ -34,15 +34,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 2 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.72.5](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.72.5), 3 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [cli/cli](https://github.com/cli/cli) ([v2.66.0](https://github.com/cli/cli/releases/tag/v2.66.0), 1 day ago) - GitHub’s official command line tool
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.72.6-alpha20245013001](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.72.6-alpha20245013001), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 3 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) ([v0.0.1](https://github.com/brightfame/metamorph/releases/tag/v0.0.1), 1 week ago) - Transform many Git repos by running commands in containers.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.1](https://github.com/robmorgan/halo/releases/tag/v0.0.1), 2 weeks ago) - Realtime headless lighting console for live performances and precise automation
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.0), 1 month ago) - A software lighting desk with remote control features
 
 #### ⭐ Recent Stars
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax. (1 day ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax. (2 days ago)
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) - Transform many Git repos by running commands in containers. (1 week ago)
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP. (2 weeks ago)
 - [crossterm-rs/crossterm](https://github.com/crossterm-rs/crossterm) - Cross platform terminal library rust (1 month ago)
