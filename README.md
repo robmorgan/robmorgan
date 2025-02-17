@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (1 day ago)
+- [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (today)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (6 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime lighting console for live performances and precise automation (6 days ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (1 week ago)
