@@ -11,18 +11,18 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/halo](https://github.com/robmorgan/halo) - Realtime lighting console for live performances and precise automation (1 day ago)
-- [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (3 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (2 weeks ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Fix build 2](https://github.com/robmorgan/halo/pull/13) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
-- [Fix some build warnings](https://github.com/robmorgan/halo/pull/12) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 days ago)
-- [Remove Legacy Rust Code](https://github.com/robmorgan/halo/pull/11) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
-- [UI](https://github.com/robmorgan/halo/pull/10) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
-- [Docker Support](https://github.com/robmorgan/infraspec/pull/1) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
+- [README Update](https://github.com/robmorgan/halo/pull/15) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [UI MVP](https://github.com/robmorgan/halo/pull/14) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Fix build 2](https://github.com/robmorgan/halo/pull/13) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 days ago)
+- [Fix some build warnings](https://github.com/robmorgan/halo/pull/12) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 days ago)
+- [Remove Legacy Rust Code](https://github.com/robmorgan/halo/pull/11) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -34,9 +34,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 day ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.73.14](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.73.14), 1 day ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.6](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.6), 6 days ago) - A software lighting desk with remote control features
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 2 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) ([v0.73.14](https://github.com/gruntwork-io/terragrunt/releases/tag/v0.73.14), 2 days ago) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.6](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.6), 1 week ago) - A software lighting desk with remote control features
 - [cli/cli](https://github.com/cli/cli) ([v2.67.0](https://github.com/cli/cli/releases/tag/v2.67.0), 2 weeks ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.2](https://github.com/robmorgan/infraspec/releases/tag/v0.0.2), 2 weeks ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 
