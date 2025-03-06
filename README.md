@@ -4,16 +4,16 @@ I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of techn
 open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You can [hire me](https://robmorgan.id.au/work-with-me/)
 for your next project.
 
-In the past, I created and released the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) open-source database migrations tool
+In the past, I created and released the [Phinx](https://github.com/cakephp/phinx) (4.4k ⭐️) open-source database migrations tool
 and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
 I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/terratest) (An open-source IaC testing tool) and created a product for [hosting Magento on AWS](https://github.com/magecloudkit/magecloudkit).
 
 #### 👨‍💻 I'm currently working on
 
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (today)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (3 weeks ago)
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
