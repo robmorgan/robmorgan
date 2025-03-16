@@ -10,15 +10,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (2 days ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (3 days ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (3 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (4 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 weeks ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (2 days ago)
+- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 days ago)
 - [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [Setup CI](https://github.com/robmorgan/infraspec/pull/2) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [README Update](https://github.com/robmorgan/halo/pull/15) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
