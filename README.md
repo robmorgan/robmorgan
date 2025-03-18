@@ -10,15 +10,15 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (today)
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (4 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 day ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (5 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 weeks ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (3 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (4 days ago)
+- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (5 days ago)
 - [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [Setup CI](https://github.com/robmorgan/infraspec/pull/2) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [README Update](https://github.com/robmorgan/halo/pull/15) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
@@ -36,16 +36,16 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 1 week ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 - [cli/cli](https://github.com/cli/cli) ([v2.68.1](https://github.com/cli/cli/releases/tag/v2.68.1), 1 week ago) - GitHub’s official command line tool
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 2 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 3 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.8.6](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.8.6), 3 weeks ago) - A software lighting desk with remote control features
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.48.2](https://github.com/gruntwork-io/terratest/releases/tag/v0.48.2), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 #### ⭐ Recent Stars
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (1 day ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 week ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
 - [emilk/egui_plot](https://github.com/emilk/egui_plot) - 2D plotting library in Rust for egui (1 month ago)
-- [brikis98/devops-book](https://github.com/brikis98/devops-book) - Code samples for the book and blog post series &#34;Fundamentals of DevOps and Software Delivery&#34; by Yevgeniy Brikman (1 month ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
