@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.9.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.9.0), 5 days ago) - A software lighting desk with remote control features
+- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.9.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.9.0), 6 days ago) - A software lighting desk with remote control features
 - [cli/cli](https://github.com/cli/cli) ([v2.69.0](https://github.com/cli/cli/releases/tag/v2.69.0), 1 week ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 3 weeks ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
