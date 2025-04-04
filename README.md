@@ -21,7 +21,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 - [Add initial RDS support](https://github.com/robmorgan/infraspec/pull/5) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 weeks ago)
 - [Batch mvp](https://github.com/brightfame/metamorph/pull/5) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (2 weeks ago)
 - [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
-- [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
+- [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (4 weeks ago)
 - [Setup CI](https://github.com/robmorgan/infraspec/pull/2) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -36,13 +36,13 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.9.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.9.0), 1 week ago) - A software lighting desk with remote control features
 - [cli/cli](https://github.com/cli/cli) ([v2.69.0](https://github.com/cli/cli/releases/tag/v2.69.0), 2 weeks ago) - GitHub’s official command line tool
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 3 weeks ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 4 weeks ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 1 month ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.48.2](https://github.com/gruntwork-io/terratest/releases/tag/v0.48.2), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 #### ⭐ Recent Stars
 
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) - The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS. (1 day ago)
+- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) - The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS. (2 days ago)
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 weeks ago)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (2 weeks ago)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (2 weeks ago)
