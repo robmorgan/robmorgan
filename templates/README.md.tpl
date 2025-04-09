@@ -4,8 +4,8 @@ I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of techn
 open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You can [hire me](https://robmorgan.id.au/work-with-me/)
 for your next project.
 
-In the past, I created and released the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) open-source database migrations tool
-and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
+In the past, I created and open-sourced the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) database migrations tool, built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
+for updating DevOps dependencies and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
 I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/terratest) (An open-source IaC testing tool) and created a product for [hosting Magento on AWS](https://github.com/magecloudkit/magecloudkit).
 
 #### 👨‍💻 I'm currently working on
