@@ -4,8 +4,8 @@ I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of techn
 open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You can [hire me](https://robmorgan.id.au/work-with-me/)
 for your next project.
 
-In the past, I created and released the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) open-source database migrations tool
-and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
+In the past, I created and open-sourced the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) database migrations tool, built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
+for updating DevOps dependencies and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
 I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/terratest) (An open-source IaC testing tool) and created a product for [hosting Magento on AWS](https://github.com/magecloudkit/magecloudkit).
 
 #### 👨‍💻 I'm currently working on
@@ -18,11 +18,11 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
+- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (today)
 - [Add initial RDS support](https://github.com/robmorgan/infraspec/pull/5) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 weeks ago)
 - [Batch mvp](https://github.com/brightfame/metamorph/pull/5) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
 - [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
 - [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
-- [Setup CI](https://github.com/robmorgan/infraspec/pull/2) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 
 #### 🌱 My latest projects
 
