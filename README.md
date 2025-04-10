@@ -18,10 +18,10 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (today)
-- [Add initial RDS support](https://github.com/robmorgan/infraspec/pull/5) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 weeks ago)
+- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (1 day ago)
+- [Add initial RDS support](https://github.com/robmorgan/infraspec/pull/5) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
 - [Batch mvp](https://github.com/brightfame/metamorph/pull/5) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
-- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
+- [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (4 weeks ago)
 - [Verbosity Flag and Output UX Improvements](https://github.com/robmorgan/infraspec/pull/3) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.7.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.7.0), 1 day ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.7.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.7.0), 2 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.9.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.9.0), 2 weeks ago) - A software lighting desk with remote control features
 - [cli/cli](https://github.com/cli/cli) ([v2.69.0](https://github.com/cli/cli/releases/tag/v2.69.0), 3 weeks ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 1 month ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
@@ -42,9 +42,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 days ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (3 days ago)
 - [wundergraph/cosmo](https://github.com/wundergraph/cosmo) - The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS. (1 week ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 weeks ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 weeks ago)
 - [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. (3 weeks ago)
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline. (3 weeks ago)
 
