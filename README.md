@@ -18,7 +18,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (5 days ago)
+- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (6 days ago)
 - [Add initial RDS support](https://github.com/robmorgan/infraspec/pull/5) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
 - [Batch mvp](https://github.com/brightfame/metamorph/pull/5) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (3 weeks ago)
 - [README and Errata tweaks](https://github.com/brightfame/metamorph/pull/3) on [brightfame/metamorph](https://github.com/brightfame/metamorph) (1 month ago)
@@ -34,11 +34,11 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 3 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [RandomStudio/tether-artnet-controller](https://github.com/RandomStudio/tether-artnet-controller) ([v0.10.0](https://github.com/RandomStudio/tether-artnet-controller/releases/tag/v0.10.0), 4 days ago) - A software lighting desk with remote control features
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2](https://github.com/gruntwork-io/patcher-action/releases/tag/v2), 4 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cli/cli](https://github.com/cli/cli) ([v2.69.0](https://github.com/cli/cli/releases/tag/v2.69.0), 3 weeks ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 1 month ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.48.2](https://github.com/gruntwork-io/terratest/releases/tag/v0.48.2), 2 months ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) ([v0.0.1](https://github.com/brightfame/metamorph/releases/tag/v0.0.1), 2 months ago) - Make batch changes across multiple repos and leverage AI
 
 #### ⭐ Recent Stars
 
