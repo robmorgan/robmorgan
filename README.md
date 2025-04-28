@@ -44,7 +44,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (1 day ago)
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (3 days ago)
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS (5 days ago)
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (5 days ago)
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (6 days ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (3 weeks ago)
 
