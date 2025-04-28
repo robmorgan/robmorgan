@@ -10,19 +10,19 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (3 days ago)
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (5 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (4 days ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (6 days ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 month ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 months ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Full Programmer](https://github.com/robmorgan/halo/pull/20) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 days ago)
-- [Tweak CI Pipeline and Format](https://github.com/robmorgan/halo/pull/18) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 days ago)
-- [Add Cue Editor](https://github.com/robmorgan/halo/pull/17) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
+- [Audio Manager](https://github.com/robmorgan/halo/pull/21) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Full Programmer](https://github.com/robmorgan/halo/pull/20) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 days ago)
+- [Tweak CI Pipeline and Format](https://github.com/robmorgan/halo/pull/18) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
+- [Add Cue Editor](https://github.com/robmorgan/halo/pull/17) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
 - [Wire up the Programmer](https://github.com/robmorgan/halo/pull/16) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
-- [🐞fix(router-tests): remove freeport logger init method](https://github.com/wundergraph/cosmo/pull/1769) on [wundergraph/cosmo](https://github.com/wundergraph/cosmo) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.71.2](https://github.com/cli/cli/releases/tag/v2.71.2), 3 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.71.2](https://github.com/cli/cli/releases/tag/v2.71.2), 4 days ago) - GitHub’s official command line tool
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.9.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.9.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.7](https://github.com/cakephp/phinx/releases/tag/0.16.7), 1 week ago) - PHP Database Migrations for Everyone
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.2](https://github.com/robmorgan/halo/releases/tag/v0.0.2), 1 week ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
@@ -42,10 +42,10 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (2 days ago)
-- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS (4 days ago)
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (5 days ago)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
-- [wundergraph/cosmo](https://github.com/wundergraph/cosmo) - The open-source solution to building, maintaining, and collaborating on GraphQL Federation at Scale. The alternative to Apollo Studio and GraphOS. (3 weeks ago)
+- [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (1 day ago)
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (3 days ago)
+- [alexykn/sp](https://github.com/alexykn/sp) - Rust based package manager for macOS (5 days ago)
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (6 days ago)
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
