@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (3 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (4 days ago)
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (2 weeks ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 month ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 months ago)
@@ -18,9 +18,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
-- [chore: errata](https://github.com/robmorgan/halo/pull/25) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
-- [Audio Playback](https://github.com/robmorgan/halo/pull/24) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
+- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
+- [chore: errata](https://github.com/robmorgan/halo/pull/25) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
+- [Audio Playback](https://github.com/robmorgan/halo/pull/24) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Fuller Programmer &#43; UI](https://github.com/robmorgan/halo/pull/22) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Audio Manager](https://github.com/robmorgan/halo/pull/21) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 
@@ -34,9 +34,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 3 days ago) - PHP Database Migrations for Everyone
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 3 days ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.10.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.10.0), 6 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 4 days ago) - PHP Database Migrations for Everyone
+- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 4 days ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.10.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.10.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cli/cli](https://github.com/cli/cli) ([v2.72.0](https://github.com/cli/cli/releases/tag/v2.72.0), 1 week ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.4](https://github.com/robmorgan/infraspec/releases/tag/v0.0.4), 2 months ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
 
