@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (5 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (6 days ago)
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (2 weeks ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 month ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 months ago)
@@ -34,9 +34,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 5 days ago) - PHP Database Migrations for Everyone
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 5 days ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 6 days ago) - PHP Database Migrations for Everyone
+- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 6 days ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.10.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.10.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [cli/cli](https://github.com/cli/cli) ([v2.72.0](https://github.com/cli/cli/releases/tag/v2.72.0), 1 week ago) - GitHub’s official command line tool
 
