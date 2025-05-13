@@ -10,8 +10,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (2 weeks ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (today)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (3 weeks ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (1 month ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (2 months ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
@@ -21,7 +21,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 - [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [chore: errata](https://github.com/robmorgan/halo/pull/25) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Audio Playback](https://github.com/robmorgan/halo/pull/24) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
-- [Fuller Programmer &#43; UI](https://github.com/robmorgan/halo/pull/22) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
+- [Fuller Programmer &#43; UI](https://github.com/robmorgan/halo/pull/22) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
 - [Audio Manager](https://github.com/robmorgan/halo/pull/21) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 5 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 1 week ago) - PHP Database Migrations for Everyone
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 1 week ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.10.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.10.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
@@ -45,7 +45,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (2 weeks ago)
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (2 weeks ago)
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (2 weeks ago)
-- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (2 weeks ago)
+- [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (3 weeks ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 month ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
