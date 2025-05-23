@@ -18,7 +18,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
+- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
 - [chore: errata](https://github.com/robmorgan/halo/pull/25) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
 - [Audio Playback](https://github.com/robmorgan/halo/pull/24) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
 - [Fuller Programmer &#43; UI](https://github.com/robmorgan/halo/pull/22) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.73.0](https://github.com/cli/cli/releases/tag/v2.73.0), 3 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.73.0](https://github.com/cli/cli/releases/tag/v2.73.0), 4 days ago) - GitHub’s official command line tool
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 2 weeks ago) - PHP Database Migrations for Everyone
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 2 weeks ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
@@ -43,8 +43,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 #### ⭐ Recent Stars
 
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (3 weeks ago)
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (3 weeks ago)
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (4 weeks ago)
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (4 weeks ago)
+- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (1 month ago)
 - [nanbingxyz/5ire](https://github.com/nanbingxyz/5ire) - 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with major service providers,  supports local knowledge base and  tools via model context protocol servers . (1 month ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (1 month ago)
 
