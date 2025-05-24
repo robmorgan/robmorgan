@@ -34,11 +34,11 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.73.0](https://github.com/cli/cli/releases/tag/v2.73.0), 4 days ago) - GitHub’s official command line tool
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 1 day ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
+- [cli/cli](https://github.com/cli/cli) ([v2.73.0](https://github.com/cli/cli/releases/tag/v2.73.0), 5 days ago) - GitHub’s official command line tool
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.8](https://github.com/cakephp/phinx/releases/tag/0.16.8), 2 weeks ago) - PHP Database Migrations for Everyone
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 2 weeks ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.10.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.10.0), 3 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 
 #### ⭐ Recent Stars
 
