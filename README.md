@@ -18,7 +18,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
-- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
+- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 - [chore: errata](https://github.com/robmorgan/halo/pull/25) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 - [Audio Playback](https://github.com/robmorgan/halo/pull/24) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 - [Fuller Programmer &#43; UI](https://github.com/robmorgan/halo/pull/22) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
@@ -34,16 +34,16 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.9](https://github.com/cakephp/phinx/releases/tag/0.16.9), 3 days ago) - PHP Database Migrations for Everyone
-- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 6 days ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [cli/cli](https://github.com/cli/cli) ([v2.73.0](https://github.com/cli/cli/releases/tag/v2.73.0), 1 week ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.74.0](https://github.com/cli/cli/releases/tag/v2.74.0), 1 day ago) - GitHub’s official command line tool
+- [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.9](https://github.com/cakephp/phinx/releases/tag/0.16.9), 4 days ago) - PHP Database Migrations for Everyone
+- [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 3 weeks ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 
 #### ⭐ Recent Stars
 
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (1 day ago)
-- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop) (3 days ago)
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (2 days ago)
+- [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop) (4 days ago)
 - [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (1 month ago)
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (1 month ago)
 - [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (1 month ago)
