@@ -10,35 +10,35 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 days ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax (5 days ago)
-- [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (5 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (3 days ago)
+- [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (6 days ago)
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (1 month ago)
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/infraspec/pull/9) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [chore(core): README Tweaks](https://github.com/robmorgan/infraspec/pull/8) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [feat(core): build script](https://github.com/robmorgan/infraspec/pull/7) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [chore: bump go to 1.24.3](https://github.com/robmorgan/infraspec/pull/6) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [Guy&#39;s 40th](https://github.com/robmorgan/halo/pull/26) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
+- [feat: add website](https://github.com/robmorgan/infraspec/pull/10) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/infraspec/pull/9) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [chore(core): README Tweaks](https://github.com/robmorgan/infraspec/pull/8) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [feat(core): build script](https://github.com/robmorgan/infraspec/pull/7) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [chore: bump go to 1.24.3](https://github.com/robmorgan/infraspec/pull/6) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
 
 #### 🌱 My latest projects
 
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.5](https://github.com/robmorgan/infraspec/releases/tag/v0.0.5), 5 days ago) - InfraSpec is a tool for running infrastructure tests written in pure Gherkin syntax
-- [cli/cli](https://github.com/cli/cli) ([v2.74.0](https://github.com/cli/cli/releases/tag/v2.74.0), 6 days ago) - GitHub’s official command line tool
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.5](https://github.com/robmorgan/infraspec/releases/tag/v0.0.5), 6 days ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
+- [cli/cli](https://github.com/cli/cli) ([v2.74.0](https://github.com/cli/cli/releases/tag/v2.74.0), 1 week ago) - GitHub’s official command line tool
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.9](https://github.com/cakephp/phinx/releases/tag/0.16.9), 1 week ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 1 week ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 3 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.49.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.49.0), 4 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 
 #### ⭐ Recent Stars
 
