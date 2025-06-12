@@ -34,7 +34,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.74.1](https://github.com/cli/cli/releases/tag/v2.74.1), 1 day ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.74.1](https://github.com/cli/cli/releases/tag/v2.74.1), 2 days ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.5](https://github.com/robmorgan/infraspec/releases/tag/v0.0.5), 1 week ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.9](https://github.com/cakephp/phinx/releases/tag/0.16.9), 2 weeks ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 2 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
