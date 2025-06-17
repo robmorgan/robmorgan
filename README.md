@@ -34,8 +34,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 1 day ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [cli/cli](https://github.com/cli/cli) ([v2.74.1](https://github.com/cli/cli/releases/tag/v2.74.1), 6 days ago) - GitHub’s official command line tool
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 2 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [cli/cli](https://github.com/cli/cli) ([v2.74.1](https://github.com/cli/cli/releases/tag/v2.74.1), 1 week ago) - GitHub’s official command line tool
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.5](https://github.com/robmorgan/infraspec/releases/tag/v0.0.5), 2 weeks ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [cakephp/phinx](https://github.com/cakephp/phinx) ([0.16.9](https://github.com/cakephp/phinx/releases/tag/0.16.9), 3 weeks ago) - PHP Database Migrations for Everyone
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 3 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
