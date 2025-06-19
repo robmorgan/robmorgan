@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 days ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (2 weeks ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (2 weeks ago)
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (1 month ago)
@@ -34,8 +34,8 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 3 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [cli/cli](https://github.com/cli/cli) ([v2.74.1](https://github.com/cli/cli/releases/tag/v2.74.1), 1 week ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.74.2](https://github.com/cli/cli/releases/tag/v2.74.2), 1 day ago) - GitHub’s official command line tool
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 4 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.5](https://github.com/robmorgan/infraspec/releases/tag/v0.0.5), 2 weeks ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [gruntwork-io/patcher-action](https://github.com/gruntwork-io/patcher-action) ([v2.11.0](https://github.com/gruntwork-io/patcher-action/releases/tag/v2.11.0), 3 weeks ago) - A GitHub Action for running Patcher, including setting up promotion workflows.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 1 month ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
