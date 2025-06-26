@@ -10,7 +10,7 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (1 day ago)
+- [brightfame/metamorph](https://github.com/brightfame/metamorph) - Make batch changes across multiple repos and leverage AI (2 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (3 weeks ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (3 weeks ago)
@@ -18,11 +18,11 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add telemetry](https://github.com/robmorgan/infraspec/pull/11) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [chore(@turbo/telemetry): fix README link](https://github.com/vercel/turborepo/pull/10603) on [vercel/turborepo](https://github.com/vercel/turborepo) (1 day ago)
 - [feat: add website](https://github.com/robmorgan/infraspec/pull/10) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/infraspec/pull/9) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
 - [chore(core): README Tweaks](https://github.com/robmorgan/infraspec/pull/8) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
-- [feat(core): build script](https://github.com/robmorgan/infraspec/pull/7) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
-- [chore: bump go to 1.24.3](https://github.com/robmorgan/infraspec/pull/6) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -42,10 +42,10 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### ⭐ Recent Stars
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 day ago)
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (4 weeks ago)
 - [raphamorim/gameboy](https://github.com/raphamorim/gameboy) - The Gameboy emulator that runs anywhere (Terminal, Web, Desktop) (1 month ago)
-- [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (1 month ago)
+- [RustAudio/rodio](https://github.com/RustAudio/rodio) - Rust audio playback library (2 months ago)
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. (2 months ago)
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS (2 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
