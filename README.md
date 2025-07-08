@@ -1,8 +1,7 @@
 ### Hi there, I'm Rob Morgan 👋
 
 I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I work on a bunch of
-open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech. You can [hire me](https://robmorgan.id.au/work-with-me/)
-for your next project.
+open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech.
 
 In the past, I created and open-sourced the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) database migrations tool, built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
 for updating DevOps dependencies and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
