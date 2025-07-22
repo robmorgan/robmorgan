@@ -9,19 +9,19 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (today)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (today)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (today)
+- [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (today)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (3 days ago)
-- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust (2 weeks ago)
-- [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add claude code](https://github.com/robmorgan/halo/pull/32) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
 - [chore: bump localstack to 4.6.0](https://github.com/robmorgan/infraspec/pull/34) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [chore: minor readme tweak](https://github.com/robmorgan/infraspec/pull/33) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [feat: add additional gha workflows](https://github.com/robmorgan/infraspec/pull/32) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [Add Mediaservarr Setup](https://github.com/robmorgan/homelab/pull/1) on [robmorgan/homelab](https://github.com/robmorgan/homelab) (6 days ago)
-- [Use GoReleaser to Handle Releases](https://github.com/robmorgan/infraspec/pull/29) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -33,9 +33,9 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 🚀 Latest releases I've contributed to
 
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.7](https://github.com/robmorgan/infraspec/releases/tag/v0.0.7), today) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [cli/cli](https://github.com/cli/cli) ([v2.76.0](https://github.com/cli/cli/releases/tag/v2.76.0), 5 days ago) - GitHub’s official command line tool
 - [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.5](https://github.com/vercel/turborepo/releases/tag/v2.5.5), 6 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.6](https://github.com/robmorgan/infraspec/releases/tag/v0.0.6), 2 weeks ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 2 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 
