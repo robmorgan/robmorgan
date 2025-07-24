@@ -9,42 +9,42 @@ I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/t
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 day ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (1 day ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 day ago)
-- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (4 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (1 day ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 days ago)
+- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (5 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add depguard to golangci-lint](https://github.com/robmorgan/infraspec/pull/41) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
-- [Implement modular asynchronous engine with tokio runtime](https://github.com/robmorgan/halo/pull/34) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
-- [feat: add claude code](https://github.com/robmorgan/halo/pull/32) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
-- [chore: bump localstack to 4.6.0](https://github.com/robmorgan/infraspec/pull/34) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
-- [chore: minor readme tweak](https://github.com/robmorgan/infraspec/pull/33) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
+- [fix: fix cla workflow](https://github.com/robmorgan/infraspec/pull/47) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [fix: add notarize env vars](https://github.com/robmorgan/infraspec/pull/46) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [fix: fix infraspec brew token](https://github.com/robmorgan/infraspec/pull/45) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [chore: pass env tokens to goreleaser](https://github.com/robmorgan/infraspec/pull/44) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [chore: add goreleaser homebrew tap token](https://github.com/robmorgan/infraspec/pull/43) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 
 #### 🌱 My latest projects
 
+- [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) - 
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec
 - [robmorgan/halo-tc-ui](https://github.com/robmorgan/halo-tc-ui) - Halo UI Experiments
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [robmorgan/swimset](https://github.com/robmorgan/swimset) - Swimming Workout Generator
-- [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.6-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.5.6-canary.0), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.8.0](https://github.com/robmorgan/infraspec/releases/tag/v0.8.0), 1 day ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
-- [cli/cli](https://github.com/cli/cli) ([v2.76.0](https://github.com/cli/cli/releases/tag/v2.76.0), 6 days ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.76.1](https://github.com/cli/cli/releases/tag/v2.76.1), 1 day ago) - GitHub’s official command line tool
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.13](https://github.com/robmorgan/infraspec/releases/tag/v0.0.13), 1 day ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.6-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.5.6-canary.0), 2 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 2 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 
 #### ⭐ Recent Stars
 
+- [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 day ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (1 week ago)
-- [MoonMoon1919/gignore-cli](https://github.com/MoonMoon1919/gignore-cli) - CLI for gignore (1 week ago)
-- [MoonMoon1919/gignore](https://github.com/MoonMoon1919/gignore) - Go package for managing ignore files (1 week ago)
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (2 weeks ago)
-- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline (3 weeks ago)
+- [MoonMoon1919/gignore-cli](https://github.com/MoonMoon1919/gignore-cli) - CLI for gignore (2 weeks ago)
+- [MoonMoon1919/gignore](https://github.com/MoonMoon1919/gignore) - Go package for managing ignore files (2 weeks ago)
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Code signing and transparency for containers and binaries (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
