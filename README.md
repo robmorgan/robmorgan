@@ -1,11 +1,14 @@
 ### Hi there, I'm Rob Morgan 👋
 
-I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I work on a bunch of
-open source projects (see below) and [blog](https://robmorgan.id.au/) about startups and tech.
+I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I'm currently working on
+[InfraSpec](https://infraspec.sh) (a tool for testing cloud infrastructure in plain English) and
+[Halo](https://github.com/robmorgan/halo) (a real-time lighting console for solo performers) and along with other open
+source projects. I [blog](https://robmorgan.id.au/) about startups and tech.
 
-In the past, I created and open-sourced the [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️) database migrations tool, built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
-for updating DevOps dependencies and released a set of production-grade infrastructure modules for [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
-I also integrated GCP support into [Terratest](https://github.com/gruntwork-io/terratest) (An open-source IaC testing tool) and created a product for [hosting Magento on AWS](https://github.com/magecloudkit/magecloudkit).
+In the past, I created [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️), a popular database migrations
+tool, and built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
+to help teams keep DevOps dependencies up to date. I've also released a set of production-grade infrastructure modules for
+[Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
 
 #### 👨‍💻 I'm currently working on
 
