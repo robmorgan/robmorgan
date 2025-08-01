@@ -12,17 +12,17 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (2 days ago)
-- [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (5 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required. (3 days ago)
+- [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (6 days ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [feat(http): add retry support](https://github.com/robmorgan/infraspec/pull/59) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 days ago)
-- [feat(http): add authorization bearer support](https://github.com/robmorgan/infraspec/pull/51) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 days ago)
-- [feat: UI v2](https://github.com/robmorgan/infraspec/pull/50) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (3 days ago)
+- [feat(http): add retry support](https://github.com/robmorgan/infraspec/pull/59) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (4 days ago)
+- [feat(http): add authorization bearer support](https://github.com/robmorgan/infraspec/pull/51) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (4 days ago)
+- [feat: UI v2](https://github.com/robmorgan/infraspec/pull/50) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (4 days ago)
 - [feat: add HTTP request support for API testing](https://github.com/robmorgan/infraspec/pull/49) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [fix: fix cla workflow](https://github.com/robmorgan/infraspec/pull/47) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 
@@ -36,15 +36,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [cli/cli](https://github.com/cli/cli) ([v2.76.2](https://github.com/cli/cli/releases/tag/v2.76.2), 1 day ago) - GitHub’s official command line tool
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.14](https://github.com/robmorgan/infraspec/releases/tag/v0.0.14), 4 days ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
+- [cli/cli](https://github.com/cli/cli) ([v2.76.2](https://github.com/cli/cli/releases/tag/v2.76.2), 2 days ago) - GitHub’s official command line tool
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.14](https://github.com/robmorgan/infraspec/releases/tag/v0.0.14), 5 days ago) - ✅ InfraSpec is a tool for testing your cloud infrastructure in plain English, no code required.
 - [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.6-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.5.6-canary.0), 1 week ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 2 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 
 #### ⭐ Recent Stars
 
-- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 day ago)
+- [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (2 days ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 week ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 week ago)
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered (2 weeks ago)
