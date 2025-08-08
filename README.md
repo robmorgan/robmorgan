@@ -12,7 +12,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (6 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (1 week ago)
 - [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (1 week ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
@@ -20,8 +20,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [feat(docs): website update](https://github.com/robmorgan/infraspec/pull/63) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [chore: tweak labeler settings](https://github.com/robmorgan/infraspec/pull/62) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [feat(docs): website update](https://github.com/robmorgan/infraspec/pull/63) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [chore: tweak labeler settings](https://github.com/robmorgan/infraspec/pull/62) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [feat(http): add retry support](https://github.com/robmorgan/infraspec/pull/59) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [feat(http): add authorization bearer support](https://github.com/robmorgan/infraspec/pull/51) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [feat: UI v2](https://github.com/robmorgan/infraspec/pull/50) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
@@ -44,7 +44,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (6 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 week ago)
 - [tidwall/gjson](https://github.com/tidwall/gjson) - Get JSON values quickly - JSON parser for Go (1 week ago)
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (2 weeks ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (2 weeks ago)
