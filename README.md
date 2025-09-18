@@ -12,15 +12,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (4 weeks ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (4 weeks ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (1 month ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 month ago)
 - [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (1 month ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 month ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Async Engine](https://github.com/robmorgan/halo/pull/39) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
+- [Async Engine](https://github.com/robmorgan/halo/pull/39) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 - [feat(docs): website update](https://github.com/robmorgan/infraspec/pull/63) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 - [chore: tweak labeler settings](https://github.com/robmorgan/infraspec/pull/62) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 - [feat(http): add retry support](https://github.com/robmorgan/infraspec/pull/59) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
@@ -37,7 +37,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 #### 🚀 Latest releases I've contributed to
 
 - [cli/cli](https://github.com/cli/cli) ([v2.79.0](https://github.com/cli/cli/releases/tag/v2.79.0), 1 week ago) - GitHub’s official command line tool
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.7-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.5.7-canary.0), 2 weeks ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.5.7-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.5.7-canary.0), 3 weeks ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.14](https://github.com/robmorgan/infraspec/releases/tag/v0.0.14), 1 month ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required.
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.50.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.50.0), 3 months ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.3](https://github.com/robmorgan/halo/releases/tag/v0.0.3), 4 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
