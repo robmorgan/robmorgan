@@ -12,15 +12,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (1 month ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 month ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 day ago)
 - [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (1 month ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (1 month ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Async Engine](https://github.com/robmorgan/halo/pull/39) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
+- [Async Engine](https://github.com/robmorgan/halo/pull/39) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 month ago)
 - [feat(docs): website update](https://github.com/robmorgan/infraspec/pull/63) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 - [chore: tweak labeler settings](https://github.com/robmorgan/infraspec/pull/62) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
 - [feat(http): add retry support](https://github.com/robmorgan/infraspec/pull/59) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 month ago)
