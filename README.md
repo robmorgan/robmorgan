@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (6 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (today)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (today)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (today)
 - [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (3 months ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (3 months ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
+- [[WIP] InfraSpec Cloud](https://github.com/robmorgan/infraspec/pull/133) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (today)
 - [chore: update Rust MSRV from 1.76 to 1.90](https://github.com/robmorgan/halo/pull/60) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
 - [Fix MidiModule thread-safety issue on Linux](https://github.com/robmorgan/halo/pull/59) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 weeks ago)
 - [Update readme](https://github.com/robmorgan/halo/pull/57) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 - [Update Agents](https://github.com/robmorgan/halo/pull/56) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
-- [Add Visualizer](https://github.com/robmorgan/halo/pull/55) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 weeks ago)
 
 #### 🌱 My latest projects
 
