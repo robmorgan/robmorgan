@@ -12,17 +12,17 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (5 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (6 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required. (today)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 week ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/infraspec-cla-signatures](https://github.com/robmorgan/infraspec-cla-signatures) -  (4 months ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Add claude GitHub actions 1763462143795](https://github.com/robmorgan/infraspec/pull/140) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [chore: remove HTTP provider](https://github.com/robmorgan/infraspec/pull/139) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (5 days ago)
-- [InfraSpec Cloud](https://github.com/robmorgan/infraspec/pull/133) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [Add claude GitHub actions 1763462143795](https://github.com/robmorgan/infraspec/pull/140) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [chore: remove HTTP provider](https://github.com/robmorgan/infraspec/pull/139) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (6 days ago)
+- [InfraSpec Cloud](https://github.com/robmorgan/infraspec/pull/133) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 - [chore: update Rust MSRV from 1.76 to 1.90](https://github.com/robmorgan/halo/pull/60) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
 - [Fix MidiModule thread-safety issue on Linux](https://github.com/robmorgan/halo/pull/59) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 weeks ago)
 
@@ -36,15 +36,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.53.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.53.0), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.54.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.54.0), today) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.1](https://github.com/cli/cli/releases/tag/v2.83.1), 1 week ago) - GitHub’s official command line tool
 - [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.6.1](https://github.com/vercel/turborepo/releases/tag/v2.6.1), 1 week ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 3 weeks ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.14](https://github.com/robmorgan/infraspec/releases/tag/v0.0.14), 3 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required.
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.0.14](https://github.com/robmorgan/infraspec/releases/tag/v0.0.14), 4 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure in plain English, no code required.
 
 #### ⭐ Recent Stars
 
-- [railwayapp/railway-mcp-server](https://github.com/railwayapp/railway-mcp-server) - Official Railway MCP Server for interacting with your Railway account (3 days ago)
+- [railwayapp/railway-mcp-server](https://github.com/railwayapp/railway-mcp-server) - Official Railway MCP Server for interacting with your Railway account (4 days ago)
 - [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms) - A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE. (3 weeks ago)
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code (1 month ago)
 - [paul-fornage/wled-json-api-library](https://github.com/paul-fornage/wled-json-api-library) - easy way to control WLED with their JSON API (3 months ago)
