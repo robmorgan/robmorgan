@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
+- [feat(emulator): change default port from 8000 to 3687](https://github.com/robmorgan/infraspec/pull/192) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (today)
 - [fix(s3): use nip.io for virtual-hosted style DNS resolution](https://github.com/robmorgan/infraspec/pull/191) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [feat: add CloudMirror tool for AWS API parity analysis](https://github.com/robmorgan/infraspec/pull/190) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [feat: embed AWS emulator for virtual cloud as default](https://github.com/robmorgan/infraspec/pull/189) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
 - [docs(website): update AWS compatibility data](https://github.com/robmorgan/infraspec/pull/182) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
-- [ci: parallelize integration tests by AWS service](https://github.com/robmorgan/infraspec/pull/181) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 week ago)
 
 #### 🌱 My latest projects
 
