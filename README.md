@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [feat(lambda): add BDD testing support for Lambda functions](https://github.com/robmorgan/infraspec/pull/194) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
-- [fix(rds): reduce DB instance removal delay from 120s to 5s](https://github.com/robmorgan/infraspec/pull/193) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
-- [feat(emulator): change default port from 8000 to 3687](https://github.com/robmorgan/infraspec/pull/192) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
-- [fix(s3): use nip.io for virtual-hosted style DNS resolution](https://github.com/robmorgan/infraspec/pull/191) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
-- [feat: add CloudMirror tool for AWS API parity analysis](https://github.com/robmorgan/infraspec/pull/190) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
+- [docs: remove content](https://github.com/robmorgan/infraspec/pull/199) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [Chore/builtin virtual cloud](https://github.com/robmorgan/infraspec/pull/198) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (1 day ago)
+- [feat: Add DJ module with dual-deck playback and beat analysis](https://github.com/robmorgan/halo/pull/72) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [feat(lambda): add BDD testing support for Lambda functions](https://github.com/robmorgan/infraspec/pull/194) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
+- [fix(rds): reduce DB instance removal delay from 120s to 5s](https://github.com/robmorgan/infraspec/pull/193) on [robmorgan/infraspec](https://github.com/robmorgan/infraspec) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,15 +36,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.1](https://github.com/robmorgan/infraspec/releases/tag/v0.2.1), 1 day ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 1 day ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.7.3-canary.0](https://github.com/vercel/turborepo/releases/tag/v2.7.3-canary.0), 1 week ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 2 weeks ago) - GitHub’s official command line tool
+- [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 3 weeks ago) - GitHub’s official command line tool
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.54.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.54.0), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 2 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 weeks ago)
 - [aws/api-models-aws](https://github.com/aws/api-models-aws) - API Models for all public AWS Services (2 weeks ago)
 - [railwayapp/railway-mcp-server](https://github.com/railwayapp/railway-mcp-server) - Official Railway MCP Server for interacting with your Railway account (1 month ago)
 - [awesometic/realtek-r8125-dkms](https://github.com/awesometic/realtek-r8125-dkms) - A DKMS package for easy use of Realtek r8125 driver, which supports 2.5 GbE. (2 months ago)
