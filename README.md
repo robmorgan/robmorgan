@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.7.4-canary.1](https://github.com/vercel/turborepo/releases/tag/v2.7.4-canary.1), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.7.4-canary.1](https://github.com/vercel/turborepo/releases/tag/v2.7.4-canary.1), 2 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 1 week ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [cli/cli](https://github.com/cli/cli) ([v2.83.2](https://github.com/cli/cli/releases/tag/v2.83.2), 4 weeks ago) - GitHub’s official command line tool
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.54.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.54.0), 1 month ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
