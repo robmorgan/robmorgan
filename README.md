@@ -13,7 +13,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 week ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (4 weeks ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 month ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
 - [robmorgan/homebrew-infraspec](https://github.com/robmorgan/homebrew-infraspec) - Official Homebrew tap for InfraSpec (6 months ago)
 - [robmorgan/homelab](https://github.com/robmorgan/homelab) - My HomeLab Setup (6 months ago)
@@ -36,8 +36,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.7.6-canary.1](https://github.com/vercel/turborepo/releases/tag/v2.7.6-canary.1), 2 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.55.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.55.0), 6 days ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.7.6-canary.1](https://github.com/vercel/turborepo/releases/tag/v2.7.6-canary.1), 3 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.55.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.55.0), 1 week ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 3 weeks ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 2 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 - [brightfame/metamorph](https://github.com/brightfame/metamorph) ([v0.0.1](https://github.com/brightfame/metamorph/releases/tag/v0.0.1), 1 year ago) - Make batch changes across multiple repos and leverage AI
