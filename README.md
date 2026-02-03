@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.2-canary.3](https://github.com/vercel/turborepo/releases/tag/v2.8.2-canary.3), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.2-canary.5](https://github.com/vercel/turborepo/releases/tag/v2.8.2-canary.5), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) ([v0.55.0](https://github.com/gruntwork-io/terratest/releases/tag/v0.55.0), 2 weeks ago) -  Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 1 month ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 3 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
@@ -44,7 +44,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 days ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (3 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
 - [aws/api-models-aws](https://github.com/aws/api-models-aws) - API Models for all public AWS Services (1 month ago)
 - [railwayapp/railway-mcp-server](https://github.com/railwayapp/railway-mcp-server) - Official Railway MCP Server for interacting with your Railway account (2 months ago)
