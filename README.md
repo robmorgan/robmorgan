@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (3 days ago)
-- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (4 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (4 days ago)
+- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (5 days ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 month ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (4 days ago)
-- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (4 days ago)
-- [fix: prevent merge conflicts by deferring upstream creation to start](https://github.com/robmorgan/metamorph/pull/11) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (4 days ago)
-- [feat: wire up extra_packages config to Docker image build](https://github.com/robmorgan/metamorph/pull/10) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (4 days ago)
-- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/9) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (6 days ago)
+- [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (5 days ago)
+- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (5 days ago)
+- [fix: prevent merge conflicts by deferring upstream creation to start](https://github.com/robmorgan/metamorph/pull/11) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (5 days ago)
+- [feat: wire up extra_packages config to Docker image build](https://github.com/robmorgan/metamorph/pull/10) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (5 days ago)
+- [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/9) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,18 +36,18 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.8-canary.7](https://github.com/vercel/turborepo/releases/tag/v2.8.8-canary.7), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 4 days ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.8](https://github.com/vercel/turborepo/releases/tag/v2.8.8), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 5 days ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 1 month ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 3 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 1 year ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
 
-- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (4 days ago)
-- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (6 days ago)
+- [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (5 days ago)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
 - [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
