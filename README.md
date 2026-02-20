@@ -12,11 +12,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (today)
-- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 days ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 day ago)
+- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (1 day ago)
+- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (3 days ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (1 week ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (2 weeks ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
@@ -36,7 +36,6 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.11-canary.4](https://github.com/vercel/turborepo/releases/tag/v2.8.11-canary.4), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 1 week ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 1 month ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 3 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
@@ -46,7 +45,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [entireio/cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. (1 week ago)
 - [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (1 week ago)
-- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (1 week ago)
+- [anthropics/claudes-c-compiler](https://github.com/anthropics/claudes-c-compiler) - Claude Opus 4.6 wrote a dependency-free C compiler in Rust, with backends targeting x86 (64- and 32-bit), ARM, and RISC-V, capable of compiling a booting Linux kernel. (2 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 months ago)
 
