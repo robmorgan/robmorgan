@@ -12,7 +12,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (1 week ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (1 week ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (2 weeks ago)
@@ -20,7 +20,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (6 days ago)
+- [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (3 weeks ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (3 weeks ago)
 - [fix: prevent merge conflicts by deferring upstream creation to start](https://github.com/robmorgan/metamorph/pull/11) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (3 weeks ago)
@@ -36,8 +36,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.14-canary.5](https://github.com/vercel/turborepo/releases/tag/v2.8.14-canary.5), 2 days ago) - Build system optimized for JavaScript and TypeScript, written in Rust
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.2.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.2.0), 6 days ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.15-canary.2](https://github.com/vercel/turborepo/releases/tag/v2.8.15-canary.2), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.2.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.2.0), 1 week ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 3 weeks ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 2 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 4 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
