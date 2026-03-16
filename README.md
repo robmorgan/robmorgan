@@ -12,10 +12,10 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 days ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (2 weeks ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (2 weeks ago)
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (2 weeks ago)
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (3 weeks ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.18-canary.4](https://github.com/vercel/turborepo/releases/tag/v2.8.18-canary.4), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.18-canary.7](https://github.com/vercel/turborepo/releases/tag/v2.8.18-canary.7), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.2.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.2.0), 2 weeks ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 1 month ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 2 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
