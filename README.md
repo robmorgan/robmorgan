@@ -12,16 +12,16 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (3 days ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (4 days ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (1 month ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
-- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
+- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
+- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
 - [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 weeks ago)
 - [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (1 month ago)
@@ -36,18 +36,18 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 3 days ago)
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.8.22-canary.3](https://github.com/vercel/turborepo/releases/tag/v2.8.22-canary.3), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 4 days ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 1 month ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 2 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 4 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 1 year ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
 
-- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (1 day ago)
-- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (6 days ago)
-- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (6 days ago)
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (2 days ago)
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (1 week ago)
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (1 week ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 week ago)
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 weeks ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (3 weeks ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
