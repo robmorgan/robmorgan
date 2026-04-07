@@ -12,16 +12,16 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (6 days ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 week ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (1 week ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (1 month ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
-- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
+- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
+- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 - [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
 - [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (1 month ago)
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.4](https://github.com/vercel/turborepo/releases/tag/v2.9.4), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.5-canary.5](https://github.com/vercel/turborepo/releases/tag/v2.9.5-canary.5), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 1 week ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 1 month ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 3 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
