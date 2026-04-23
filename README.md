@@ -20,8 +20,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 weeks ago)
-- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 weeks ago)
+- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
+- [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
 - [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
 - [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (2 months ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (2 months ago)
