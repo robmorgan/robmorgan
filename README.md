@@ -44,9 +44,9 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 weeks ago)
-- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (3 weeks ago)
-- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (4 weeks ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (4 weeks ago)
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (4 weeks ago)
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (1 month ago)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (1 month ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (1 month ago)
 
