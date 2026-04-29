@@ -22,7 +22,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
 - [Per-bin spectral flux tracking &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/2) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
-- [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 month ago)
+- [Complete hybrid timestretch overhaul and finalize implementation plan](https://github.com/robmorgan/timestretch-rs/pull/1) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 months ago)
 - [fix: auto-resolve sync conflicts and preserve existing .gitignore](https://github.com/robmorgan/metamorph/pull/13) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (2 months ago)
 - [Add Claude Code GitHub Workflow](https://github.com/robmorgan/metamorph/pull/12) on [robmorgan/metamorph](https://github.com/robmorgan/metamorph) (2 months ago)
 
@@ -38,8 +38,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 1 month ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 2 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 3 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 5 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 4 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
+- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 6 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 1 year ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
