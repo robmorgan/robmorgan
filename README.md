@@ -14,7 +14,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 month ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (1 month ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 months ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (2 months ago)
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English. (2 months ago)
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.14](https://github.com/vercel/turborepo/releases/tag/v2.9.14), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.15-canary.1](https://github.com/vercel/turborepo/releases/tag/v2.9.15-canary.1), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 1 month ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 3 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 4 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
