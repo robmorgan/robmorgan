@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.15](https://github.com/vercel/turborepo/releases/tag/v2.9.15), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) ([v2.9.16-canary.2](https://github.com/vercel/turborepo/releases/tag/v2.9.16-canary.2), 1 day ago) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.4.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.4.0), 2 months ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 3 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 4 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
@@ -44,8 +44,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 month ago)
-- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (1 month ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 months ago)
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (2 months ago)
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (2 months ago)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (2 months ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (2 months ago)
