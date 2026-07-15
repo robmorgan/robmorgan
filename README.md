@@ -13,18 +13,18 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) -  (today)
-- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 week ago)
+- [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 months ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨ (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [qa: external-reference gate against Rubber Band CLI &#43; fix public-corpus CI fixture bug](https://github.com/robmorgan/timestretch-rs/pull/7) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
-- [Pull-based real-time engine: varispeed-first keylock at 9/9 A/B parity](https://github.com/robmorgan/timestretch-rs/pull/6) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Streaming engine rework: multi-resolution filterbank &#43; varispeed-first keylock (Stage 15); BPM accuracy harness](https://github.com/robmorgan/timestretch-rs/pull/5) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [DJ-deck readiness: analyze-on-load, low-latency streaming, robust onset detection, warm-start seek](https://github.com/robmorgan/timestretch-rs/pull/4) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (6 days ago)
-- [Per-bin spectral flux &#43; streaming WSOLA-PV hybrid overlay](https://github.com/robmorgan/timestretch-rs/pull/3) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 months ago)
+- [Stage 8/9 engine cutover &#43; CDJ-style desktop deck UI](https://github.com/robmorgan/timestretch-rs/pull/12) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [Stage 9: cutover — delete the old engine (−22.9k lines)](https://github.com/robmorgan/timestretch-rs/pull/11) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 8: batch/offline rebased onto the engine graph](https://github.com/robmorgan/timestretch-rs/pull/10) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 7 complete: parity campaign signed off](https://github.com/robmorgan/timestretch-rs/pull/9) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Keylock range settlement: SOLA-only corrected range, full keylock to ±20%](https://github.com/robmorgan/timestretch-rs/pull/8) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.7.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.7.0), 1 day ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.7.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.7.0), 2 days ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 5 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 6 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 8 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
