@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [ci: check the desktop crate (test &#43; clippy on macOS)](https://github.com/robmorgan/timestretch-rs/pull/14) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [docs: add desktop app screenshot, fix truncated README section](https://github.com/robmorgan/timestretch-rs/pull/13) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 8/9 engine cutover &#43; CDJ-style desktop deck UI](https://github.com/robmorgan/timestretch-rs/pull/12) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 9: cutover — delete the old engine (−22.9k lines)](https://github.com/robmorgan/timestretch-rs/pull/11) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
-- [Stage 8: batch/offline rebased onto the engine graph](https://github.com/robmorgan/timestretch-rs/pull/10) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Update README screenshot to current desktop UI](https://github.com/robmorgan/timestretch-rs/pull/22) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [Add audible CDJ-style waveform scrub with release momentum](https://github.com/robmorgan/timestretch-rs/pull/21) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [chore: remove the web WASM demo](https://github.com/robmorgan/timestretch-rs/pull/20) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Add a grid-quantized auto-loop with halve/double length controls to the desktop deck](https://github.com/robmorgan/timestretch-rs/pull/19) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Fix beat-grid alignment and BPM accuracy; live Tape/Keylock switching](https://github.com/robmorgan/timestretch-rs/pull/18) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.7.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.7.0), 3 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.7.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.7.0), 4 days ago)
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 5 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 6 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 8 months ago) - ⭕️ Halo is a real-time lighting console, designed to bring modern, immersive experiences into the hands of solo performers
