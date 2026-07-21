@@ -2,8 +2,8 @@
 
 I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I'm currently working on
 [InfraSpec](https://infraspec.sh) (a tool for testing cloud infrastructure in plain English) and
-[Halo](https://github.com/robmorgan/halo) (a real-time lighting console for solo performers) and along with other open
-source projects. I [blog](https://robmorgan.id.au/) about startups and tech.
+[Halo](https://github.com/robmorgan/halo) (a DJ app with a built-in lighting console, designed for solo performers)
+and along with other open source projects. I [blog](https://robmorgan.id.au/) about startups and tech.
 
 In the past, I created [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️), a popular database migrations
 tool, and built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
