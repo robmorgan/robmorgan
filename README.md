@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
+- [docs: refresh docs for the DJ-app pivot](https://github.com/robmorgan/halo/pull/85) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
 - [Port dual-deck DJ app &#43; halo-light into this repo](https://github.com/robmorgan/halo/pull/84) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
 - [Update README screenshot to current desktop UI](https://github.com/robmorgan/timestretch-rs/pull/22) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
 - [Add audible CDJ-style waveform scrub with release momentum](https://github.com/robmorgan/timestretch-rs/pull/21) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
 - [chore: remove the web WASM demo](https://github.com/robmorgan/timestretch-rs/pull/20) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Add a grid-quantized auto-loop with halve/double length controls to the desktop deck](https://github.com/robmorgan/timestretch-rs/pull/19) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
 
 #### 🌱 My latest projects
 
