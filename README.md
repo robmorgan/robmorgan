@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (today)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (6 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 day ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (3 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: refresh docs for the DJ-app pivot](https://github.com/robmorgan/halo/pull/85) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
-- [Port dual-deck DJ app &#43; halo-light into this repo](https://github.com/robmorgan/halo/pull/84) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
+- [Phase L3 role-lane UX preview (Look / Energy / Accent)](https://github.com/robmorgan/halo/pull/86) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [docs: refresh docs for the DJ-app pivot](https://github.com/robmorgan/halo/pull/85) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
+- [Port dual-deck DJ app &#43; halo-light into this repo](https://github.com/robmorgan/halo/pull/84) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Update README screenshot to current desktop UI](https://github.com/robmorgan/timestretch-rs/pull/22) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [Add audible CDJ-style waveform scrub with release momentum](https://github.com/robmorgan/timestretch-rs/pull/21) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
-- [chore: remove the web WASM demo](https://github.com/robmorgan/timestretch-rs/pull/20) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.8.1](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.8.1), 6 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.8.1](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.8.1), 1 week ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 5 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 6 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 8 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
@@ -44,8 +44,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 months ago)
-- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (3 months ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (4 months ago)
+- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (4 months ago)
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (4 months ago)
 - [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (4 months ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (4 months ago)
