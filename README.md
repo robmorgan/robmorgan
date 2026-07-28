@@ -20,8 +20,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [Phase L3 role-lane UX preview (Look / Energy / Accent)](https://github.com/robmorgan/halo/pull/86) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [docs: refresh docs for the DJ-app pivot](https://github.com/robmorgan/halo/pull/85) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
+- [Phase L3 role-lane UX preview (Look / Energy / Accent)](https://github.com/robmorgan/halo/pull/86) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [docs: refresh docs for the DJ-app pivot](https://github.com/robmorgan/halo/pull/85) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Port dual-deck DJ app &#43; halo-light into this repo](https://github.com/robmorgan/halo/pull/84) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Update README screenshot to current desktop UI](https://github.com/robmorgan/timestretch-rs/pull/22) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [Add audible CDJ-style waveform scrub with release momentum](https://github.com/robmorgan/timestretch-rs/pull/21) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
@@ -38,8 +38,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.8.1](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.8.1), 1 week ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 5 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
-- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 6 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 8 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
+- [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 7 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
+- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.0.5](https://github.com/robmorgan/halo/releases/tag/v0.0.5), 9 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 2 years ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
