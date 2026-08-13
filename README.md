@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (5 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (today)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 month ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Honest low-confidence grid display (Stage 10)](https://github.com/robmorgan/timestretch-rs/pull/44) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Stage 16 audition prep: render example and purity characterization](https://github.com/robmorgan/timestretch-rs/pull/43) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Band-limit batch resampling (Stage 17)](https://github.com/robmorgan/timestretch-rs/pull/42) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Wide-path dead-code and doc-truth sweep (Stage 14, part 2)](https://github.com/robmorgan/timestretch-rs/pull/41) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Wide-path consolidation: offline runs the shipped wide stage, M/S stereo (Stage 14)](https://github.com/robmorgan/timestretch-rs/pull/40) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (6 days ago)
+- [Stage 18 kill-experiment verdict: survived — build-out scoped](https://github.com/robmorgan/timestretch-rs/pull/55) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [Stage 16 closure: blind verdict recorded, Stage 18 scoped](https://github.com/robmorgan/timestretch-rs/pull/54) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [Stage 17 closure: owner A/B passed, stage archived](https://github.com/robmorgan/timestretch-rs/pull/53) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (today)
+- [Stage 12 completion: soak drift gate, no-panic audit, weekly fuzz campaign](https://github.com/robmorgan/timestretch-rs/pull/52) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 10 closure notes: honest low-confidence display (PR #44)](https://github.com/robmorgan/timestretch-rs/pull/51) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 
 #### 🌱 My latest projects
 
