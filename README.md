@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 day ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (2 weeks ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 month ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Stage 10 evidence half: non-EDM corpus &#43; the DnB metrical-level gap](https://github.com/robmorgan/timestretch-rs/pull/63) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 19 closure docs (landed after #60 merged)](https://github.com/robmorgan/timestretch-rs/pull/62) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
-- [Blind A/B listening harness (scripts/ab.sh)](https://github.com/robmorgan/timestretch-rs/pull/61) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
-- [Stage 19: direct-ratio wide path — the PV owns the tempo axis](https://github.com/robmorgan/timestretch-rs/pull/60) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
-- [Stage 19 kill-experiment verdict: dynamics clean — build-out on](https://github.com/robmorgan/timestretch-rs/pull/59) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
+- [Stage 10: metrical-level second pass — DnB detects 174, floors in CI (v12)](https://github.com/robmorgan/timestretch-rs/pull/64) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 10 evidence half: non-EDM corpus &#43; the DnB metrical-level gap](https://github.com/robmorgan/timestretch-rs/pull/63) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 19 closure docs (landed after #60 merged)](https://github.com/robmorgan/timestretch-rs/pull/62) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
+- [Blind A/B listening harness (scripts/ab.sh)](https://github.com/robmorgan/timestretch-rs/pull/61) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
+- [Stage 19: direct-ratio wide path — the PV owns the tempo axis](https://github.com/robmorgan/timestretch-rs/pull/60) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
 
 #### 🌱 My latest projects
 
