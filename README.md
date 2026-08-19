@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [Stage 10: metrical-level second pass — DnB detects 174, floors in CI (v12)](https://github.com/robmorgan/timestretch-rs/pull/64) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 10 evidence half: non-EDM corpus &#43; the DnB metrical-level gap](https://github.com/robmorgan/timestretch-rs/pull/63) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
-- [Stage 19 closure docs (landed after #60 merged)](https://github.com/robmorgan/timestretch-rs/pull/62) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
-- [Blind A/B listening harness (scripts/ab.sh)](https://github.com/robmorgan/timestretch-rs/pull/61) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
-- [Stage 19: direct-ratio wide path — the PV owns the tempo axis](https://github.com/robmorgan/timestretch-rs/pull/60) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
+- [fix: count timestamped-retarget overflow degradations (fixes #45)](https://github.com/robmorgan/timestretch-rs/pull/66) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 10 closed — quality-closure roadmap complete](https://github.com/robmorgan/timestretch-rs/pull/65) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 10: metrical-level second pass — DnB detects 174, floors in CI (v12)](https://github.com/robmorgan/timestretch-rs/pull/64) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 10 evidence half: non-EDM corpus &#43; the DnB metrical-level gap](https://github.com/robmorgan/timestretch-rs/pull/63) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
+- [Stage 19 closure docs (landed after #60 merged)](https://github.com/robmorgan/timestretch-rs/pull/62) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.11.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.11.0), 1 week ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.12.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.12.0), 1 day ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 weeks ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 6 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 7 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
@@ -47,7 +47,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (4 months ago)
 - [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (4 months ago)
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research (4 months ago)
-- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (4 months ago)
-- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (4 months ago)
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (5 months ago)
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (5 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
