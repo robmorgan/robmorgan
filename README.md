@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [fix: count timestamped-retarget overflow degradations (fixes #45)](https://github.com/robmorgan/timestretch-rs/pull/66) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 10 closed — quality-closure roadmap complete](https://github.com/robmorgan/timestretch-rs/pull/65) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 10: metrical-level second pass — DnB detects 174, floors in CI (v12)](https://github.com/robmorgan/timestretch-rs/pull/64) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
-- [Stage 10 evidence half: non-EDM corpus &#43; the DnB metrical-level gap](https://github.com/robmorgan/timestretch-rs/pull/63) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
-- [Stage 19 closure docs (landed after #60 merged)](https://github.com/robmorgan/timestretch-rs/pull/62) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
+- [Stage 21 kill experiment: time-domain bass corrector — survived](https://github.com/robmorgan/timestretch-rs/pull/68) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [Stage 20 closed: bounded width treatment killed by blind experiment](https://github.com/robmorgan/timestretch-rs/pull/67) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
+- [fix: count timestamped-retarget overflow degradations (fixes #45)](https://github.com/robmorgan/timestretch-rs/pull/66) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 10 closed — quality-closure roadmap complete](https://github.com/robmorgan/timestretch-rs/pull/65) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 10: metrical-level second pass — DnB detects 174, floors in CI (v12)](https://github.com/robmorgan/timestretch-rs/pull/64) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.12.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.12.0), 1 day ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.12.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.12.0), 2 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 weeks ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 6 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 7 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
