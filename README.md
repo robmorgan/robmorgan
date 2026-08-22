@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (today)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 day ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 days ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (2 weeks ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 month ago)
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (4 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Desktop doc-truth sweep: UI descriptions match the current engine](https://github.com/robmorgan/timestretch-rs/pull/70) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 21: the keylock low band plays in key](https://github.com/robmorgan/timestretch-rs/pull/69) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [Stage 21 kill experiment: time-domain bass corrector — survived](https://github.com/robmorgan/timestretch-rs/pull/68) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
-- [Stage 20 closed: bounded width treatment killed by blind experiment](https://github.com/robmorgan/timestretch-rs/pull/67) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
-- [fix: count timestamped-retarget overflow degradations (fixes #45)](https://github.com/robmorgan/timestretch-rs/pull/66) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
+- [Desktop doc-truth sweep: UI descriptions match the current engine](https://github.com/robmorgan/timestretch-rs/pull/70) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 21: the keylock low band plays in key](https://github.com/robmorgan/timestretch-rs/pull/69) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [Stage 21 kill experiment: time-domain bass corrector — survived](https://github.com/robmorgan/timestretch-rs/pull/68) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
+- [Stage 20 closed: bounded width treatment killed by blind experiment](https://github.com/robmorgan/timestretch-rs/pull/67) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
+- [fix: count timestamped-retarget overflow degradations (fixes #45)](https://github.com/robmorgan/timestretch-rs/pull/66) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.13.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.13.0), 1 day ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.13.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.13.0), 2 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 weeks ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 6 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 7 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
