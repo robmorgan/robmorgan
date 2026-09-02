@@ -12,15 +12,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (today)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (6 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [chore(skills): adapt halo&#39;s readme-screenshot skill; move to repo root](https://github.com/robmorgan/timestretch-rs/pull/77) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (6 days ago)
+- [chore(skills): adapt halo&#39;s readme-screenshot skill; move to repo root](https://github.com/robmorgan/timestretch-rs/pull/77) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [Analyze the native signal on track load, not the resampled copy](https://github.com/robmorgan/halo/pull/96) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [WIDE tempo range with CDJ-style brake to a full stop](https://github.com/robmorgan/halo/pull/95) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
 - [Auto cue distrusts a low-confidence downbeat phase](https://github.com/robmorgan/halo/pull/94) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 week ago)
@@ -36,7 +36,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.14.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.14.0), 6 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.14.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.14.0), 1 week ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 1 month ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 6 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 8 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
