@@ -12,8 +12,8 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (6 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (2 weeks ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (2 weeks ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 months ago)
