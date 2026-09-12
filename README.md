@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
+- [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 - [docs: close Stage 23 — Elastique baseline session and parity criterion](https://github.com/robmorgan/timestretch-rs/pull/82) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [qa: Stage 23 scaffolding for Elastique reference renders](https://github.com/robmorgan/timestretch-rs/pull/81) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [docs(roadmap): open the Parity Track (Stages 23–29) around a quality lane and gesture lane](https://github.com/robmorgan/timestretch-rs/pull/80) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [refactor: rename analyze_for_dj to analyze](https://github.com/robmorgan/timestretch-rs/pull/79) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
-- [chore(skills): adapt halo&#39;s readme-screenshot skill; move to repo root](https://github.com/robmorgan/timestretch-rs/pull/77) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 
 #### 🌱 My latest projects
 
