@@ -14,13 +14,13 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
-- [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (2 weeks ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (2 weeks ago)
+- [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (3 weeks ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (3 weeks ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 days ago)
+- [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (4 days ago)
 - [docs: close Stage 23 — Elastique baseline session and parity criterion](https://github.com/robmorgan/timestretch-rs/pull/82) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [qa: Stage 23 scaffolding for Elastique reference renders](https://github.com/robmorgan/timestretch-rs/pull/81) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
 - [docs(roadmap): open the Parity Track (Stages 23–29) around a quality lane and gesture lane](https://github.com/robmorgan/timestretch-rs/pull/80) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 week ago)
