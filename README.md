@@ -12,15 +12,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (today)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 day ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (3 weeks ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (3 weeks ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 months ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (5 days ago)
+- [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (6 days ago)
 - [docs: close Stage 23 — Elastique baseline session and parity criterion](https://github.com/robmorgan/timestretch-rs/pull/82) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 - [qa: Stage 23 scaffolding for Elastique reference renders](https://github.com/robmorgan/timestretch-rs/pull/81) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 - [docs(roadmap): open the Parity Track (Stages 23–29) around a quality lane and gesture lane](https://github.com/robmorgan/timestretch-rs/pull/80) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
@@ -44,10 +44,10 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (1 day ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (today)
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 days ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJ-3000 player in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, and Pro DJ Link network (2 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (5 months ago)
-- [Uzaaft/libghostty-rs](https://github.com/Uzaaft/libghostty-rs) -  (5 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
