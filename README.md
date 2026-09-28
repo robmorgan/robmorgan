@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
+- [Go daemon: durable agent sessions, drop worktree management](https://github.com/robmorgan/agentd/pull/2) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Waveform thumbnails in the library browser](https://github.com/robmorgan/halo/pull/97) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
 - [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 - [docs: close Stage 23 — Elastique baseline session and parity criterion](https://github.com/robmorgan/timestretch-rs/pull/82) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
 - [qa: Stage 23 scaffolding for Elastique reference renders](https://github.com/robmorgan/timestretch-rs/pull/81) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
-- [docs(roadmap): open the Parity Track (Stages 23–29) around a quality lane and gesture lane](https://github.com/robmorgan/timestretch-rs/pull/80) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
-- [refactor: rename analyze_for_dj to analyze](https://github.com/robmorgan/timestretch-rs/pull/79) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -44,10 +44,10 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (today)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (1 week ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (3 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 weeks ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (6 months ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
