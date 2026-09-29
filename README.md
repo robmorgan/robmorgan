@@ -12,16 +12,16 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 week ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 month ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Go daemon: durable agent sessions, drop worktree management](https://github.com/robmorgan/agentd/pull/2) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Waveform thumbnails in the library browser](https://github.com/robmorgan/halo/pull/97) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Go daemon: durable agent sessions, drop worktree management](https://github.com/robmorgan/agentd/pull/2) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Waveform thumbnails in the library browser](https://github.com/robmorgan/halo/pull/97) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 days ago)
 - [docs: update parity roadmap with quality audit findings](https://github.com/robmorgan/timestretch-rs/pull/83) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 weeks ago)
 - [docs: close Stage 23 — Elastique baseline session and parity criterion](https://github.com/robmorgan/timestretch-rs/pull/82) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
 - [qa: Stage 23 scaffolding for Elastique reference renders](https://github.com/robmorgan/timestretch-rs/pull/81) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (3 weeks ago)
@@ -44,9 +44,9 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (today)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 day ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
-- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (1 week ago)
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (3 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 weeks ago)
 
