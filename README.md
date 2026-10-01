@@ -15,16 +15,16 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (1 week ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (4 weeks ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Route every CLI command through the daemon; drop local degraded mode](https://github.com/robmorgan/agentd/pull/5) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Daemon-side cwd resolution and DB-backed workspaces](https://github.com/robmorgan/agentd/pull/4) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Remote access over QUIC: agent --host and agentd remote enable](https://github.com/robmorgan/agentd/pull/3) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Go daemon: durable agent sessions, drop worktree management](https://github.com/robmorgan/agentd/pull/2) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
-- [Waveform thumbnails in the library browser](https://github.com/robmorgan/halo/pull/97) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 days ago)
+- [Build libghostty-vt without ghostty&#39;s xcframework](https://github.com/robmorgan/agentd/pull/7) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Port the agent CLI to Go; one Go module at the repo root](https://github.com/robmorgan/agentd/pull/6) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Route every CLI command through the daemon; drop local degraded mode](https://github.com/robmorgan/agentd/pull/5) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
+- [Daemon-side cwd resolution and DB-backed workspaces](https://github.com/robmorgan/agentd/pull/4) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
+- [Remote access over QUIC: agent --host and agentd remote enable](https://github.com/robmorgan/agentd/pull/3) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -37,15 +37,15 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 #### 🚀 Latest releases I've contributed to
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.15.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.15.0), 4 weeks ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 1 month ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
+- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 7 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 9 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 2 years ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 days ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 week ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (3 days ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (4 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (4 weeks ago)
