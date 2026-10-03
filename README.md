@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 days ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (4 weeks ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
 - [robmorgan/phinx-screencast](https://github.com/robmorgan/phinx-screencast) - Sample project from the Phinx screencast (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Build libghostty-vt without ghostty&#39;s xcframework](https://github.com/robmorgan/agentd/pull/7) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
-- [Port the agent CLI to Go; one Go module at the repo root](https://github.com/robmorgan/agentd/pull/6) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
-- [Route every CLI command through the daemon; drop local degraded mode](https://github.com/robmorgan/agentd/pull/5) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (3 days ago)
-- [Daemon-side cwd resolution and DB-backed workspaces](https://github.com/robmorgan/agentd/pull/4) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (3 days ago)
-- [Remote access over QUIC: agent --host and agentd remote enable](https://github.com/robmorgan/agentd/pull/3) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (3 days ago)
+- [Notice dead remote clients faster and reattach after a lost connection](https://github.com/robmorgan/agentd/pull/8) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Build libghostty-vt without ghostty&#39;s xcframework](https://github.com/robmorgan/agentd/pull/7) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (3 days ago)
+- [Port the agent CLI to Go; one Go module at the repo root](https://github.com/robmorgan/agentd/pull/6) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (3 days ago)
+- [Route every CLI command through the daemon; drop local degraded mode](https://github.com/robmorgan/agentd/pull/5) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (4 days ago)
+- [Daemon-side cwd resolution and DB-backed workspaces](https://github.com/robmorgan/agentd/pull/4) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (4 days ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (5 days ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
