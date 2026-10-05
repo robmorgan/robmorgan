@@ -20,11 +20,11 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 🔨 My recent Pull Requests
 
-- [Take the database off the attach path](https://github.com/robmorgan/agentd/pull/22) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Update libghostty; compress quiet scrollback and report terminal memory](https://github.com/robmorgan/agentd/pull/21) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Run the test suite on Linux from a Mac; fix two racy tests](https://github.com/robmorgan/agentd/pull/20) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Hand session workers to a new binary without stopping their agents](https://github.com/robmorgan/agentd/pull/19) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Restore the terminal exactly on reattach](https://github.com/robmorgan/agentd/pull/18) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Retry a failed foreground lookup; fix a racy activity test](https://github.com/robmorgan/agentd/pull/23) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Take the database off the attach path](https://github.com/robmorgan/agentd/pull/22) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Update libghostty; compress quiet scrollback and report terminal memory](https://github.com/robmorgan/agentd/pull/21) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Run the test suite on Linux from a Mac; fix two racy tests](https://github.com/robmorgan/agentd/pull/20) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Hand session workers to a new binary without stopping their agents](https://github.com/robmorgan/agentd/pull/19) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -44,7 +44,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (6 days ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 week ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
