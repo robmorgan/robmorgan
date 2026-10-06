@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (today)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Retry a failed foreground lookup; fix a racy activity test](https://github.com/robmorgan/agentd/pull/23) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Take the database off the attach path](https://github.com/robmorgan/agentd/pull/22) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Update libghostty; compress quiet scrollback and report terminal memory](https://github.com/robmorgan/agentd/pull/21) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Run the test suite on Linux from a Mac; fix two racy tests](https://github.com/robmorgan/agentd/pull/20) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Hand session workers to a new binary without stopping their agents](https://github.com/robmorgan/agentd/pull/19) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Cap the scrollback an attach copies into the terminal](https://github.com/robmorgan/agentd/pull/26) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Fix the primary screen under the alternate screen in reattach snapshots](https://github.com/robmorgan/agentd/pull/25) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Benchmark VT against libghostty binary snapshots](https://github.com/robmorgan/agentd/pull/24) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Retry a failed foreground lookup; fix a racy activity test](https://github.com/robmorgan/agentd/pull/23) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Take the database off the attach path](https://github.com/robmorgan/agentd/pull/22) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -46,7 +46,7 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 week ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
-- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (2 weeks ago)
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (3 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 month ago)
 
