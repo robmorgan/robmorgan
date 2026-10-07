@@ -2,10 +2,10 @@
 
 I'm an Australian 🇦🇺 entrepreneur and engineer. These days I'm building tools for
 AI-native software development - most actively [agentd](https://github.com/robmorgan/agentd),
-a daemon-backed workspace for coding agents (like tmux, but built for agents) - and
+a daemon-backed workspace for coding agents (like tmux, but built for agents) and
 contributing terminal internals upstream to [Ghostty](https://github.com/ghostty-org/ghostty).
 
-On the side I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
+On the side, I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
 built-in lighting console for solo performers, and
 [timestretch-rs](https://github.com/robmorgan/timestretch-rs), a pure-Rust audio
 time-stretching library tuned for electronic music. I [blog](https://robmorgan.id.au/) about
@@ -27,11 +27,11 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🔨 My recent Pull Requests
 
+- [benchmark: measure the terminal formatter with every extra](https://github.com/ghostty-org/ghostty/pull/14581) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
 - [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/28) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 - [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/27) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 - [terminal: apply a single shift to exactly one printed character](https://github.com/ghostty-org/ghostty/pull/14576) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
 - [terminal: print codepoints above 0xFF unmapped in a charset, as xterm](https://github.com/ghostty-org/ghostty/pull/14554) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
-- [Cap the scrollback an attach copies into the terminal](https://github.com/robmorgan/agentd/pull/26) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -54,7 +54,7 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 week ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (3 weeks ago)
-- [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU on Apple Silicon, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
+- [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 month ago)
 
 ![](https://github-readme-stats.vercel.app/api?username=robmorgan&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true)
