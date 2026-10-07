@@ -1,14 +1,21 @@
 ### Hi there, I'm Rob Morgan 👋
 
-I'm an Australian 🇦🇺 entrepreneur with experience in a wide range of technology companies. I'm currently working on
-[InfraSpec](https://infraspec.sh) (a tool for testing cloud infrastructure in plain English) and
-[Halo](https://github.com/robmorgan/halo) (a real-time lighting console for solo performers) and along with other open
-source projects. I [blog](https://robmorgan.id.au/) about startups and tech.
+I'm an Australian 🇦🇺 entrepreneur and engineer. These days I'm building tools for
+AI-native software development - most actively [agentd](https://github.com/robmorgan/agentd),
+a daemon-backed workspace for coding agents (like tmux, but built for agents) - and
+contributing terminal internals upstream to [Ghostty](https://github.com/ghostty-org/ghostty).
 
-In the past, I created [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️), a popular database migrations
-tool, and built [Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b)
-to help teams keep DevOps dependencies up to date. I've also released a set of production-grade infrastructure modules for
-[Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform).
+On the side I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
+built-in lighting console for solo performers, and
+[timestretch-rs](https://github.com/robmorgan/timestretch-rs), a pure-Rust audio
+time-stretching library tuned for electronic music. I [blog](https://robmorgan.id.au/) about
+startups and tech.
+
+Previously, I created [Phinx](https://github.com/cakephp/phinx) (4.5k ⭐️), a popular database
+migrations tool, built [InfraSpec](https://infraspec.sh) for testing cloud infrastructure in
+plain English, and worked on DevOps tooling at [Gruntwork](https://gruntwork.io)
+([Patcher](https://blog.gruntwork.io/introducing-patcher-a-new-tool-for-keeping-infrastructure-code-up-to-date-e65b0c203b6b),
+production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sre/deploying-a-production-grade-helm-release-on-gke-with-terraform) modules).
 
 #### 👨‍💻 I'm currently working on
 
