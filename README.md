@@ -12,19 +12,19 @@ to help teams keep DevOps dependencies up to date. I've also released a set of p
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (today)
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 day ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 weeks ago)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 month ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Cap the scrollback an attach copies into the terminal](https://github.com/robmorgan/agentd/pull/26) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Fix the primary screen under the alternate screen in reattach snapshots](https://github.com/robmorgan/agentd/pull/25) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Benchmark VT against libghostty binary snapshots](https://github.com/robmorgan/agentd/pull/24) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Retry a failed foreground lookup; fix a racy activity test](https://github.com/robmorgan/agentd/pull/23) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Take the database off the attach path](https://github.com/robmorgan/agentd/pull/22) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
+- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/28) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/27) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [terminal: apply a single shift to exactly one printed character](https://github.com/ghostty-org/ghostty/pull/14576) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
+- [terminal: print codepoints above 0xFF unmapped in a charset, as xterm](https://github.com/ghostty-org/ghostty/pull/14554) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [Cap the scrollback an attach copies into the terminal](https://github.com/robmorgan/agentd/pull/26) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (2 days ago)
 
 #### 🌱 My latest projects
 
