@@ -3,7 +3,7 @@
 I'm an Australian 🇦🇺 entrepreneur and engineer. These days I'm building tools for
 AI-native software development - most actively [agentd](https://github.com/robmorgan/agentd),
 a daemon-backed workspace for coding agents (like tmux, but built for agents) and
-contributing terminal internals upstream to [Ghostty](https://github.com/ghostty-org/ghostty).
+contributing terminal internals to [Ghostty](https://github.com/ghostty-org/ghostty).
 
 On the side, I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
 built-in lighting console for solo performers, and
