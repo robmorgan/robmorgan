@@ -3,7 +3,7 @@
 I'm an Australian 🇦🇺 entrepreneur and engineer. These days I'm building tools for
 AI-native software development - most actively [agentd](https://github.com/robmorgan/agentd),
 a daemon-backed workspace for coding agents (like tmux, but built for agents) and
-contributing terminal internals to [Ghostty](https://github.com/ghostty-org/ghostty).
+contributing terminal internals upstream to [Ghostty](https://github.com/ghostty-org/ghostty).
 
 On the side, I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
 built-in lighting console for solo performers, and
@@ -20,18 +20,18 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (today)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 day ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 day ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (2 days ago)
 - [robmorgan/phinx-ui-app](https://github.com/robmorgan/phinx-ui-app) - Simple Web UI that shows the Phinx migration status (2 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [benchmark: measure the terminal formatter with every extra](https://github.com/ghostty-org/ghostty/pull/14581) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
-- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/28) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/27) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [terminal: apply a single shift to exactly one printed character](https://github.com/ghostty-org/ghostty/pull/14576) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
-- [terminal: print codepoints above 0xFF unmapped in a charset, as xterm](https://github.com/ghostty-org/ghostty/pull/14554) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [formatter: write the cursor position relative to the margins in origin mode](https://github.com/ghostty-org/ghostty/pull/14588) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
+- [benchmark: measure the terminal formatter with every extra](https://github.com/ghostty-org/ghostty/pull/14581) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/28) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Update libghostty for the charset fixes and add a cgocheck target](https://github.com/robmorgan/agentd/pull/27) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [terminal: apply a single shift to exactly one printed character](https://github.com/ghostty-org/ghostty/pull/14576) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -45,14 +45,14 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.15.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.15.0), 1 month ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
-- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 7 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
+- [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 8 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 9 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 2 years ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
 
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (1 week ago)
-- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (2 weeks ago)
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 weeks ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (3 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 month ago)
