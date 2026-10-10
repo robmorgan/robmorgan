@@ -19,19 +19,19 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (today)
-- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (3 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 day ago)
+- [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (4 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [docs(roadmap): propose PV candidate arms and an IP check](https://github.com/robmorgan/timestretch-rs/pull/86) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [docs: Stage 25 closed, Stage 24 prototype killed, Stage 27 baseline heard](https://github.com/robmorgan/timestretch-rs/pull/85) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [fix(ab-tui): give the save status its own footer line](https://github.com/robmorgan/timestretch-rs/pull/84) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
-- [formatter: write the cursor position relative to the margins in origin mode](https://github.com/ghostty-org/ghostty/pull/14588) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
-- [benchmark: measure the terminal formatter with every extra](https://github.com/ghostty-org/ghostty/pull/14581) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (2 days ago)
+- [docs(roadmap): propose PV candidate arms and an IP check](https://github.com/robmorgan/timestretch-rs/pull/86) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [docs: Stage 25 closed, Stage 24 prototype killed, Stage 27 baseline heard](https://github.com/robmorgan/timestretch-rs/pull/85) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [fix(ab-tui): give the save status its own footer line](https://github.com/robmorgan/timestretch-rs/pull/84) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (2 days ago)
+- [formatter: write the cursor position relative to the margins in origin mode](https://github.com/ghostty-org/ghostty/pull/14588) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (2 days ago)
+- [benchmark: measure the terminal formatter with every extra](https://github.com/ghostty-org/ghostty/pull/14581) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (3 days ago)
 
 #### 🌱 My latest projects
 
