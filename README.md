@@ -20,18 +20,18 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (4 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (4 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (5 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Run a paired agentd devbox on DigitalOcean; start the daemon at boot](https://github.com/robmorgan/agentd/pull/36) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Add install.sh: an idempotent install from source](https://github.com/robmorgan/agentd/pull/35) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Format the files gofmt flags on main](https://github.com/robmorgan/agentd/pull/34) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [Update Ghostty for the origin mode fix and program status 0.4](https://github.com/robmorgan/agentd/pull/33) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
-- [fix: escape sequences](https://github.com/robmorgan/agentd/pull/32) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Run make test-linux directly on a Linux host](https://github.com/robmorgan/agentd/pull/40) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Rename the agent CLI to agt](https://github.com/robmorgan/agentd/pull/39) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [formatter: restore a pending wrap over a blank cell](https://github.com/ghostty-org/ghostty/pull/14670) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
+- [Rename the CLI from agent to agt](https://github.com/robmorgan/agentd/pull/38) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [CI: shellcheck every tracked shell script](https://github.com/robmorgan/agentd/pull/37) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 
 #### 🌱 My latest projects
 
@@ -53,7 +53,7 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 - [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 weeks ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (3 weeks ago)
-- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (3 weeks ago)
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (4 weeks ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 month ago)
 
