@@ -27,11 +27,11 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🔨 My recent Pull Requests
 
+- [Record pairings, authorizations and remote connections in agent events](https://github.com/robmorgan/agentd/pull/41) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 - [Run make test-linux directly on a Linux host](https://github.com/robmorgan/agentd/pull/40) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 - [Rename the agent CLI to agt](https://github.com/robmorgan/agentd/pull/39) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 - [formatter: restore a pending wrap over a blank cell](https://github.com/ghostty-org/ghostty/pull/14670) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
 - [Rename the CLI from agent to agt](https://github.com/robmorgan/agentd/pull/38) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [CI: shellcheck every tracked shell script](https://github.com/robmorgan/agentd/pull/37) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
 
 #### 🌱 My latest projects
 
