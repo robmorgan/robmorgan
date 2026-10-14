@@ -20,18 +20,18 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/agentd](https://github.com/robmorgan/agentd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (4 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (5 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (5 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Record pairings, authorizations and remote connections in agent events](https://github.com/robmorgan/agentd/pull/41) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Run make test-linux directly on a Linux host](https://github.com/robmorgan/agentd/pull/40) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [Rename the agent CLI to agt](https://github.com/robmorgan/agentd/pull/39) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
-- [formatter: restore a pending wrap over a blank cell](https://github.com/ghostty-org/ghostty/pull/14670) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
-- [Rename the CLI from agent to agt](https://github.com/robmorgan/agentd/pull/38) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Restore a pending wrap over a blank cell (ghostty #14670)](https://github.com/robmorgan/agentd/pull/42) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (today)
+- [Record pairings, authorizations and remote connections in agent events](https://github.com/robmorgan/agentd/pull/41) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Run make test-linux directly on a Linux host](https://github.com/robmorgan/agentd/pull/40) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [Rename the agent CLI to agt](https://github.com/robmorgan/agentd/pull/39) on [robmorgan/agentd](https://github.com/robmorgan/agentd) (1 day ago)
+- [formatter: restore a pending wrap over a blank cell](https://github.com/ghostty-org/ghostty/pull/14670) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
 
 #### 🌱 My latest projects
 
