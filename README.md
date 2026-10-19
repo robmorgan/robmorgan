@@ -19,19 +19,19 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (4 days ago)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Rename the daemon from agentd to agtd](https://github.com/robmorgan/agtd/pull/55) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
-- [Fix the worker&#39;s imports of the old module path](https://github.com/robmorgan/agtd/pull/54) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
-- [Fix the README logo in Safari dark mode](https://github.com/robmorgan/agtd/pull/53) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
-- [Fix the README logo in dark mode](https://github.com/robmorgan/agtd/pull/52) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
-- [Use the agtd logo in the README](https://github.com/robmorgan/agtd/pull/51) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
+- [formatter: keep trailing blank rows in VT output without trimming](https://github.com/ghostty-org/ghostty/pull/14766) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
+- [agt host add: a bare host means the default port](https://github.com/robmorgan/agtd/pull/57) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
+- [Rename the Go module to agtd.sh](https://github.com/robmorgan/agtd/pull/56) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
+- [Rename the daemon from agentd to agtd](https://github.com/robmorgan/agtd/pull/55) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (3 days ago)
+- [Fix the worker&#39;s imports of the old module path](https://github.com/robmorgan/agtd/pull/54) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -51,7 +51,7 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### ⭐ Recent Stars
 
-- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (2 weeks ago)
+- [creack/pty](https://github.com/creack/pty) - PTY interface for Go (3 weeks ago)
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (1 month ago)
 - [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (1 month ago)
 - [nsaintot/cdj3k-emu](https://github.com/nsaintot/cdj3k-emu) - An emulator for the CDJs in QEMU, with emulated SPI controls, jog LCD, USB, PC-LINK and Pro DJ Link network (1 month ago)
