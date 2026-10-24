@@ -19,7 +19,7 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (today)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
@@ -27,11 +27,11 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🔨 My recent Pull Requests
 
-- [Set the mouse modes again after a repaint under frames](https://github.com/robmorgan/agtd/pull/79) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
-- [libghostty-vt: add ghostty_formatter_screen_new to format a screen independent of whether its active](https://github.com/ghostty-org/ghostty/pull/14815) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (today)
-- [Predict Enter as the submit over frames](https://github.com/robmorgan/agtd/pull/78) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
-- [Check the root help against the version it prints](https://github.com/robmorgan/agtd/pull/77) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
-- [Leave the cursor where the echo put it when a frame arrives](https://github.com/robmorgan/agtd/pull/76) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
+- [Set the mouse modes again after a repaint under frames](https://github.com/robmorgan/agtd/pull/79) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
+- [libghostty-vt: add ghostty_formatter_screen_new to format a screen independent of whether its active](https://github.com/ghostty-org/ghostty/pull/14815) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [Predict Enter as the submit over frames](https://github.com/robmorgan/agtd/pull/78) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
+- [Check the root help against the version it prints](https://github.com/robmorgan/agtd/pull/77) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
+- [Leave the cursor where the echo put it when a frame arrives](https://github.com/robmorgan/agtd/pull/76) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,7 +43,7 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) ([v0.1.1](https://github.com/robmorgan/agtd/releases/tag/v0.1.1), 1 day ago) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development.
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) ([v0.1.1](https://github.com/robmorgan/agtd/releases/tag/v0.1.1), 2 days ago) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development.
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.15.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.15.0), 1 month ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 2 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 8 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
