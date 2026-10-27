@@ -27,11 +27,11 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🔨 My recent Pull Requests
 
+- [feat: a detach returns to the inbox](https://github.com/robmorgan/agtd/pull/84) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
 - [fix: pre-landing review fixes for alt scrollback (#81 follow-up)](https://github.com/robmorgan/agtd/pull/83) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
 - [Ssh agent forwarding](https://github.com/robmorgan/agtd/pull/82) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
 - [Alt scrollback](https://github.com/robmorgan/agtd/pull/81) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
 - [feat: bare agt opens a multi-host inbox](https://github.com/robmorgan/agtd/pull/80) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
-- [Set the mouse modes again after a repaint under frames](https://github.com/robmorgan/agtd/pull/79) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (4 days ago)
 
 #### 🌱 My latest projects
 
