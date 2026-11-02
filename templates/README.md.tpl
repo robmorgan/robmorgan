@@ -1,7 +1,7 @@
 ### Hi there, I'm Rob Morgan 👋
 
 I'm an Australian 🇦🇺 entrepreneur and engineer. These days I'm building tools for
-AI-native software development - most actively [agentd](https://github.com/robmorgan/agentd),
+AI-native software development - most actively [agtd](https://github.com/robmorgan/agtd),
 a daemon-backed workspace for coding agents (like tmux, but for agents) and
 contributing terminal internals to [Ghostty](https://github.com/ghostty-org/ghostty).
 
