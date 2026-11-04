@@ -19,19 +19,19 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (1 day ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 day ago)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (4 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (5 days ago)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (3 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (5 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (6 days ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Clone a workspace with the forwarded SSH agent](https://github.com/robmorgan/agtd/pull/102) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (4 days ago)
-- [Predict mouse-drag selection highlighting in frames attaches](https://github.com/robmorgan/agtd/pull/101) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (4 days ago)
-- [Bump the version to 0.2.1](https://github.com/robmorgan/agtd/pull/100) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (4 days ago)
-- [fix: keep cue preview active until mouse release](https://github.com/robmorgan/halo/pull/102) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
-- [fix: prevent sync dropouts from rounded playback tempos](https://github.com/robmorgan/halo/pull/101) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
+- [Redesign the UI to the Halo design system](https://github.com/robmorgan/halo/pull/103) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Clone a workspace with the forwarded SSH agent](https://github.com/robmorgan/agtd/pull/102) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (5 days ago)
+- [Predict mouse-drag selection highlighting in frames attaches](https://github.com/robmorgan/agtd/pull/101) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (5 days ago)
+- [Bump the version to 0.2.1](https://github.com/robmorgan/agtd/pull/100) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (5 days ago)
+- [fix: keep cue preview active until mouse release](https://github.com/robmorgan/halo/pull/102) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -43,8 +43,8 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🚀 Latest releases I've contributed to
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) ([v0.2.1](https://github.com/robmorgan/agtd/releases/tag/v0.2.1), 4 days ago) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development.
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.16.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.16.0), 5 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) ([v0.2.1](https://github.com/robmorgan/agtd/releases/tag/v0.2.1), 5 days ago) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development.
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.16.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.16.0), 6 days ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 3 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 8 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 10 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
