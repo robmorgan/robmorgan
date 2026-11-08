@@ -19,16 +19,16 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (2 days ago)
-- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (5 days ago)
-- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (6 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (today)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 days ago)
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (6 days ago)
+- [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Redesign the UI: the Halo design system and a harder-edged look](https://github.com/robmorgan/halo/pull/104) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
-- [Redesign the UI to the Halo design system](https://github.com/robmorgan/halo/pull/103) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
+- [Redesign the UI: the Halo design system and a harder-edged look](https://github.com/robmorgan/halo/pull/104) on [robmorgan/halo](https://github.com/robmorgan/halo) (2 days ago)
+- [Redesign the UI to the Halo design system](https://github.com/robmorgan/halo/pull/103) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
 - [Clone a workspace with the forwarded SSH agent](https://github.com/robmorgan/agtd/pull/102) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
 - [Predict mouse-drag selection highlighting in frames attaches](https://github.com/robmorgan/agtd/pull/101) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
 - [Bump the version to 0.2.1](https://github.com/robmorgan/agtd/pull/100) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
