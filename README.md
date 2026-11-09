@@ -27,11 +27,11 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 🔨 My recent Pull Requests
 
+- [Footer with control help and background tasks](https://github.com/robmorgan/halo/pull/109) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [Master clock in place of the master deck](https://github.com/robmorgan/halo/pull/108) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [Remove the crossfader](https://github.com/robmorgan/halo/pull/107) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [Options modal, MIDI controllers and the Traktor Z1](https://github.com/robmorgan/halo/pull/106) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
 - [UI tweaks: hot cue colours, footer icon rail, library drag-and-drop](https://github.com/robmorgan/halo/pull/105) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [Redesign the UI: the Halo design system and a harder-edged look](https://github.com/robmorgan/halo/pull/104) on [robmorgan/halo](https://github.com/robmorgan/halo) (3 days ago)
-- [Redesign the UI to the Halo design system](https://github.com/robmorgan/halo/pull/103) on [robmorgan/halo](https://github.com/robmorgan/halo) (6 days ago)
-- [Clone a workspace with the forwarded SSH agent](https://github.com/robmorgan/agtd/pull/102) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
-- [Predict mouse-drag selection highlighting in frames attaches](https://github.com/robmorgan/agtd/pull/101) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
 
 #### 🌱 My latest projects
 
