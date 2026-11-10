@@ -20,18 +20,18 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 #### 👨‍💻 I'm currently working on
 
 - [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (today)
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (4 days ago)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (5 days ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (1 week ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 week ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (1 week ago)
 
 #### 🔨 My recent Pull Requests
 
-- [Footer with control help and background tasks](https://github.com/robmorgan/halo/pull/109) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [Master clock in place of the master deck](https://github.com/robmorgan/halo/pull/108) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [Remove the crossfader](https://github.com/robmorgan/halo/pull/107) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [Options modal, MIDI controllers and the Traktor Z1](https://github.com/robmorgan/halo/pull/106) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [UI tweaks: hot cue colours, footer icon rail, library drag-and-drop](https://github.com/robmorgan/halo/pull/105) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [ui: the new Halo icon in the Dock, the bundle, the toolbar and the README](https://github.com/robmorgan/halo/pull/111) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [audio: headphone cue on a 4-output device&#39;s phones](https://github.com/robmorgan/halo/pull/110) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
+- [Footer with control help and background tasks](https://github.com/robmorgan/halo/pull/109) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Master clock in place of the master deck](https://github.com/robmorgan/halo/pull/108) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [Remove the crossfader](https://github.com/robmorgan/halo/pull/107) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
 
 #### 🌱 My latest projects
 
