@@ -19,19 +19,19 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 #### 👨‍💻 I'm currently working on
 
-- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (4 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (4 days ago)
+- [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (5 days ago)
+- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (5 days ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (2 weeks ago)
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (2 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (2 weeks ago)
 
 #### 🔨 My recent Pull Requests
 
-- [lighting: the Hyulights strobe&#39;s 4CH and 12CH modes, and split RGB / white shutters](https://github.com/robmorgan/halo/pull/118) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [patch: a MAP | LAYOUT switch, with fixtures placed on the stage automatically](https://github.com/robmorgan/halo/pull/117) on [robmorgan/halo](https://github.com/robmorgan/halo) (today)
-- [patch: a universe overview beside the patch sheet, with fixtures you drag to readdress](https://github.com/robmorgan/halo/pull/116) on [robmorgan/halo](https://github.com/robmorgan/halo) (4 days ago)
-- [lighting: the NRG curve and an ENERGY fader scale the rig, and the LOOK lane drives it](https://github.com/robmorgan/halo/pull/115) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
-- [Move to libghostty-vt 1.0](https://github.com/robmorgan/agtd/pull/104) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (5 days ago)
+- [formatter: keep a hyperlink whole when restoring a pending wrap in it](https://github.com/ghostty-org/ghostty/pull/15248) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 day ago)
+- [Note a hyperlink still open as a snapshot known limit](https://github.com/robmorgan/agtd/pull/105) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 day ago)
+- [lighting: the Hyulights strobe&#39;s 4CH and 12CH modes, and split RGB / white shutters](https://github.com/robmorgan/halo/pull/118) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [patch: a MAP | LAYOUT switch, with fixtures placed on the stage automatically](https://github.com/robmorgan/halo/pull/117) on [robmorgan/halo](https://github.com/robmorgan/halo) (1 day ago)
+- [patch: a universe overview beside the patch sheet, with fixtures you drag to readdress](https://github.com/robmorgan/halo/pull/116) on [robmorgan/halo](https://github.com/robmorgan/halo) (5 days ago)
 
 #### 🌱 My latest projects
 
