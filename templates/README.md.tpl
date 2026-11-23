@@ -5,7 +5,7 @@ AI-native software development - most actively [agtd](https://github.com/robmorg
 a daemon-backed workspace for coding agents (like tmux, but for agents) and
 contributing terminal internals to [Ghostty](https://github.com/ghostty-org/ghostty).
 
-On the side, I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
+On the side, I build music tech: [Halo](https://robmorgan.id.au/halo), a DJ app with a
 built-in lighting console for solo performers, and
 [timestretch-rs](https://github.com/robmorgan/timestretch-rs), a pure-Rust audio
 time-stretching library tuned for electronic music. I [blog](https://robmorgan.id.au/) about
