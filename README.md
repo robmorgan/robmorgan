@@ -5,7 +5,7 @@ AI-native software development - most actively [agtd](https://github.com/robmorg
 a daemon-backed workspace for coding agents (like tmux, but for agents) and
 contributing terminal internals to [Ghostty](https://github.com/ghostty-org/ghostty).
 
-On the side, I build music tech: [Halo](https://github.com/robmorgan/halo), a DJ app with a
+On the side, I build music tech: [Halo](https://robmorgan.id.au/halo), a DJ app with a
 built-in lighting console for solo performers, and
 [timestretch-rs](https://github.com/robmorgan/timestretch-rs), a pure-Rust audio
 time-stretching library tuned for electronic music. I [blog](https://robmorgan.id.au/) about
@@ -21,17 +21,17 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music. (1 day ago)
 - [robmorgan/agtd](https://github.com/robmorgan/agtd) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development. (3 days ago)
-- [robmorgan/halo](https://github.com/robmorgan/halo) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences. (1 week ago)
 - [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run (3 weeks ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. (3 weeks ago)
+- [mitchellh/go-libghostty](https://github.com/mitchellh/go-libghostty) - [Mirror] Go bindings for libghostty-vt. Source of truth: https://tangled.org/mitchellh.com/go-libghostty (1 month ago)
 
 #### 🔨 My recent Pull Requests
 
+- [Make scripts/do-devbox.sh executable](https://github.com/robmorgan/agtd/pull/106) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (today)
 - [fix(core): stop grain synthesis faulting on unbuffered tail samples](https://github.com/robmorgan/timestretch-rs/pull/94) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 - [feat: WebAssembly bindings and a browser build of the deck app](https://github.com/robmorgan/timestretch-rs/pull/93) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 - [feat(desktop): drag-and-drop audio loading](https://github.com/robmorgan/timestretch-rs/pull/92) on [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) (1 day ago)
 - [formatter: keep a hyperlink whole when restoring a pending wrap in it](https://github.com/ghostty-org/ghostty/pull/15248) on [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) (1 week ago)
-- [Note a hyperlink still open as a snapshot known limit](https://github.com/robmorgan/agtd/pull/105) on [robmorgan/agtd](https://github.com/robmorgan/agtd) (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -45,9 +45,9 @@ production-grade [Google Cloud](https://cloud.google.com/blog/products/devops-sr
 
 - [robmorgan/timestretch-rs](https://github.com/robmorgan/timestretch-rs) ([v0.17.0](https://github.com/robmorgan/timestretch-rs/releases/tag/v0.17.0), 1 day ago) - Pure 🦀 Rust audio time-stretching library optimized for electronic dance music.
 - [robmorgan/agtd](https://github.com/robmorgan/agtd) ([v0.2.1](https://github.com/robmorgan/agtd/releases/tag/v0.2.1), 3 weeks ago) - ✨ A daemon-backed workspace for coding agents - like tmux, but built for AI-native software development.
-- [robmorgan/halo](https://github.com/robmorgan/halo) ([v0.1.0](https://github.com/robmorgan/halo/releases/tag/v0.1.0), 3 months ago) - ⭕️ Halo is a DJ app with a built-in lighting console, designed for solo performers who want to deliver modern, immersive experiences.
 - [robmorgan/metamorph](https://github.com/robmorgan/metamorph) ([v0.2.1](https://github.com/robmorgan/metamorph/releases/tag/v0.2.1), 9 months ago) - Orchestrate parallel Claude Code Agents that coordinate through Git. ✨
 - [robmorgan/infraspec](https://github.com/robmorgan/infraspec) ([v0.2.2](https://github.com/robmorgan/infraspec/releases/tag/v0.2.2), 10 months ago) - ✅ InfraSpec is a tool for testing your AWS infrastructure code in plain English.
+- [robmorgan/sample-node-app](https://github.com/robmorgan/sample-node-app) ([v0.3.0](https://github.com/robmorgan/sample-node-app/releases/tag/v0.3.0), 2 years ago) - Sample Node.js App for use with Google Cloud Build &#43; Cloud Run
 
 #### ⭐ Recent Stars
 
